@@ -1,10 +1,7 @@
-import React, { useState } from "react";
+import React from "react";
 import "./App.css";
 // import { getToken, getAccountInfomation } from "./api/GetAccountInfomation";
-import {
-  getDataFromSpreadsheet,
-  getGoogleApiAccessTokenByRefreshToken,
-} from "./api/getDataFromSpreadsheet";
+import { getDataFromSpreadsheet, getGoogleApiAccessTokenByRefreshToken } from "./api/getDataFromSpreadsheet";
 import Table from "react-bootstrap/Table";
 import Form from "react-bootstrap/Form";
 
@@ -95,9 +92,7 @@ class App extends React.Component {
     var [accountType, symbol] = this.state.selectedCategory.split("/");
     var activities = this.state.activities.slice();
     if (this.state.selectedCategory !== "" && this.state.selectedCategory !== "all") {
-      activities = this.state.activities.filter(
-        (activity) => activity[1] === symbol && activity[4] === accountType
-      );
+      activities = this.state.activities.filter((activity) => activity[1] === symbol && activity[4] === accountType);
     }
     return (
       <Table responsive striped bordered hover size="lg">
@@ -128,10 +123,7 @@ class App extends React.Component {
   selectInspectingCategory = () => {
     return (
       <Form.Group>
-        <Form.Control
-          as="select"
-          onChange={(e) => this.setState({ selectedCategory: e.target.value })}
-        >
+        <Form.Control as="select" onChange={(e) => this.setState({ selectedCategory: e.target.value })}>
           <option value="all">全部记录</option>
           {Object.keys(this.state.positions["Individual TFSA"]).map((position) => (
             <option value={`Individual TFSA/${position}`}>{`1 ${position}`}</option>
