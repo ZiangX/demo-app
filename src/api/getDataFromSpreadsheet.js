@@ -1,6 +1,6 @@
 // Using context api to get global token
 const getDataFromSpreadsheet = async (token, spreadsheetId) => {
-  const res = await fetch(`https://sheets.googleapis.com/v4/spreadsheets/${spreadsheetId}/values/Sheet1!A1:E`, {
+  const res = await fetch(`https://sheets.googleapis.com/v4/spreadsheets/${spreadsheetId}/values/Activities!A1:E`, {
     method: "GET",
     headers: {
       Authorization: `Bearer ${token}`,
