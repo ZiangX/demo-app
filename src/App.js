@@ -1,12 +1,12 @@
 import React from 'react';
 import './App.css';
-// import { getToken, getAccountInfomation } from "./api/GetAccountInfomation";
-import {
-  getDataFromSpreadsheet,
-  getGoogleApiAccessTokenByRefreshToken,
-} from './api/getDataFromSpreadsheet';
 import Table from 'react-bootstrap/Table';
 import Form from 'react-bootstrap/Form';
+
+// import data from './data.json';
+// import data from './marginTransactionData2020To2021.json';
+import data from './marginData2020.json';
+// import data from './marginData2021.json';
 
 class App extends React.Component {
   state = {
@@ -17,18 +17,11 @@ class App extends React.Component {
   };
 
   componentDidMount = async () => {
-    // Get google access_token from a spreadsheet cell
-    // const savedTokenSpreadsheetId = "1g88oUCQWbxsOrqNbm_1CfmmOzByZGjLeVTvgp6dkR7Q"
-    // var savedToken = await getDataFromSpreadsheet(
-    //   token, savedTokenSpreadsheetId, "A1"
-    // );
-
-    // If the api call is failed, getting a new access token by refresh token
-    var token = await getGoogleApiAccessTokenByRefreshToken();
-
-    // Call activities spreadsheet to get the data
-    const activitiesSpreadsheetId = '1ggR0TRc3LyjwrHbFR6vtcOO6WJ3e9LaTEDhjwty5pC8';
-    var activities = await getDataFromSpreadsheet(token, activitiesSpreadsheetId);
+    console.log('data', data);
+    let activities = data.map(({ Date, Symbol, Quantity, Price, Type, Amount }) => {
+      return [Date, Symbol, Quantity, Price, Type, Amount];
+    });
+    console.log('activities', activities);
 
     // [27737857, 52130491].map(accountNum => {
     // 	let stocks = await getAccountInfomation(accountNum, "positions");
@@ -36,17 +29,17 @@ class App extends React.Component {
     // 	this.setState({ stocks, balance });
     // })
     var positions = { 'Individual TFSA': {}, 'Individual margin': {} };
-    activities.forEach(([date, symbol, qty, price, accountType]) => {
+
+    activities.forEach(([date, symbol, qty, price, accountType, amount]) => {
       if (symbol in positions[accountType]) {
         positions[accountType][symbol] = parseInt(qty) + positions[accountType][symbol];
       } else {
         positions[accountType][symbol] = parseInt(qty);
       }
     });
+
     console.log(positions);
-    console.log(activities);
     this.setState({ activities, positions });
-    // TODO Add rowNumber fetch function
   };
 
   stockPositions = () => (
@@ -103,8 +96,8 @@ class App extends React.Component {
     let profit = 0;
     activities.forEach(([date, symbol, qty, price, accountType]) => {
       stockRemaining += parseInt(qty);
-      profit += parseInt(qty * price)
-    })
+      profit += parseInt(qty * price);
+    });
     return (
       <Table responsive striped bordered hover size='lg'>
         <thead>
@@ -118,12 +111,12 @@ class App extends React.Component {
         </thead>
         <tbody>
           <tr>
-                <td>All time</td>
-                <td></td>
-                <td>{stockRemaining}</td>
-                <td>{parseFloat(profit).toFixed(2) * -1}</td>
-                <td>{accountType === 'Individual TFSA' ? '1' : '2'}</td>
-            </tr>
+            <td>All time</td>
+            <td></td>
+            <td>{stockRemaining}</td>
+            <td>{parseFloat(profit).toFixed(2) * -1}</td>
+            <td>{accountType === 'Individual TFSA' ? '1' : '2'}</td>
+          </tr>
           {activities.map(([date, symbol, qty, price, accountType]) => {
             return (
               <tr>
@@ -148,12 +141,16 @@ class App extends React.Component {
           onChange={(e) => this.setState({ selectedCategory: e.target.value })}
         >
           <option value='all'>全部记录</option>
-          {Object.keys(this.state.positions['Individual TFSA']).map((position) => (
-            <option value={`Individual TFSA/${position}`}>{`1 ${position}`}</option>
-          ))}
-          {Object.keys(this.state.positions['Individual margin']).map((position) => (
-            <option value={`Individual margin/${position}`}>{`2 ${position}`}</option>
-          ))}
+          {Object.keys(this.state.positions['Individual TFSA'])
+            .sort()
+            .map((position) => (
+              <option value={`Individual TFSA/${position}`}>{`1 ${position}`}</option>
+            ))}
+          {Object.keys(this.state.positions['Individual margin'])
+            .sort()
+            .map((position) => (
+              <option value={`Individual margin/${position}`}>{`2 ${position}`}</option>
+            ))}
         </Form.Control>
       </Form.Group>
     );

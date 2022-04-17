@@ -1,0 +1,490 @@
+[
+    {
+        "Date": "2020-12-01 12:00:00 AM",
+        "Symbol": "TIGR",
+        "Quantity": "1000.00000",
+        "Price": "6.54000000",
+        "Type": "Individual margin",
+        "Amount": "-6549.95"
+    },
+    {
+        "Date": "2020-12-01 12:00:00 AM",
+        "Symbol": "NKLA",
+        "Quantity": "100.00000",
+        "Price": "29.50000000",
+        "Type": "Individual margin",
+        "Amount": "-2954.95"
+    },
+    {
+        "Date": "2020-12-02 12:00:00 AM",
+        "Symbol": "TIGR",
+        "Quantity": "500.00000",
+        "Price": "5.90000000",
+        "Type": "Individual margin",
+        "Amount": "-2955.00"
+    },
+    {
+        "Date": "2020-12-02 12:00:00 AM",
+        "Symbol": "NKLA",
+        "Quantity": "300.00000",
+        "Price": "21.03333333",
+        "Type": "Individual margin",
+        "Amount": "-6319.90"
+    },
+    {
+        "Date": "2020-12-03 12:00:00 AM",
+        "Symbol": "NKLA",
+        "Quantity": "100.00000",
+        "Price": "17.04000000",
+        "Type": "Individual margin",
+        "Amount": "-1708.95"
+    },
+    {
+        "Date": "2020-12-03 12:00:00 AM",
+        "Symbol": "NNDM",
+        "Quantity": "500.00000",
+        "Price": "6.46000000",
+        "Type": "Individual margin",
+        "Amount": "-3235.00"
+    },
+    {
+        "Date": "2020-12-07 12:00:00 AM",
+        "Symbol": "XPEV",
+        "Quantity": "-50.00000",
+        "Price": "53.03720000",
+        "Type": "Individual margin",
+        "Amount": "2646.85"
+    },
+    {
+        "Date": "2020-12-07 12:00:00 AM",
+        "Symbol": "XPEV",
+        "Quantity": "50.00000",
+        "Price": "52.50000000",
+        "Type": "Individual margin",
+        "Amount": "-2629.95"
+    },
+    {
+        "Date": "2020-12-07 12:00:00 AM",
+        "Symbol": "PHIO",
+        "Quantity": "2000.00000",
+        "Price": "2.46000000",
+        "Type": "Individual margin",
+        "Amount": "-4939.90"
+    },
+    {
+        "Date": "2020-12-07 12:00:00 AM",
+        "Symbol": "NNDM",
+        "Quantity": "-500.00000",
+        "Price": "7.70000000",
+        "Type": "Individual margin",
+        "Amount": "3844.91"
+    },
+    {
+        "Date": "2020-12-08 12:00:00 AM",
+        "Symbol": "SGBX",
+        "Quantity": "1000.00000",
+        "Price": "3.13000000",
+        "Type": "Individual margin",
+        "Amount": "-3139.95"
+    },
+    {
+        "Date": "2020-12-08 12:00:00 AM",
+        "Symbol": "PHIO",
+        "Quantity": "100.00000",
+        "Price": "2.30000000",
+        "Type": "Individual margin",
+        "Amount": "-234.95"
+    },
+    {
+        "Date": "2020-12-09 12:00:00 AM",
+        "Symbol": "SGBX",
+        "Quantity": "-1000.00000",
+        "Price": "3.40000000",
+        "Type": "Individual margin",
+        "Amount": "3389.97"
+    },
+    {
+        "Date": "2020-12-09 12:00:00 AM",
+        "Symbol": "PHIO",
+        "Quantity": "-1000.00000",
+        "Price": "2.45000000",
+        "Type": "Individual margin",
+        "Amount": "2439.99"
+    },
+    {
+        "Date": "2020-12-09 12:00:00 AM",
+        "Symbol": "NKLA",
+        "Quantity": "200.00000",
+        "Price": "18.50000000",
+        "Type": "Individual margin",
+        "Amount": "-3704.95"
+    },
+    {
+        "Date": "2020-12-09 12:00:00 AM",
+        "Symbol": "NIO",
+        "Quantity": "-50.00000",
+        "Price": "45.47220000",
+        "Type": "Individual margin",
+        "Amount": "2268.60"
+    },
+    {
+        "Date": "2020-12-09 12:00:00 AM",
+        "Symbol": "CHL",
+        "Quantity": "-100.00000",
+        "Price": "29.57110000",
+        "Type": "Individual margin",
+        "Amount": "2952.09"
+    },
+    {
+        "Date": "2020-12-10 12:00:00 AM",
+        "Symbol": "NOK",
+        "Quantity": "2000.00000",
+        "Price": "4.15000000",
+        "Type": "Individual margin",
+        "Amount": "-8309.95"
+    },
+    {
+        "Date": "2020-12-10 12:00:00 AM",
+        "Symbol": "CHL",
+        "Quantity": "100.00000",
+        "Price": "29.21000000",
+        "Type": "Individual margin",
+        "Amount": "-2925.95"
+    },
+    {
+        "Date": "2020-12-11 12:00:00 AM",
+        "Symbol": "NIO",
+        "Quantity": "-50.00000",
+        "Price": "45.77000000",
+        "Type": "Individual margin",
+        "Amount": "2283.49"
+    },
+    {
+        "Date": "2020-12-11 12:00:00 AM",
+        "Symbol": "MAC",
+        "Quantity": "-500.00000",
+        "Price": "12.33000000",
+        "Type": "Individual margin",
+        "Amount": "6159.86"
+    },
+    {
+        "Date": "2020-12-11 12:00:00 AM",
+        "Symbol": "LXRX",
+        "Quantity": "1000.00000",
+        "Price": "2.70000000",
+        "Type": "Individual margin",
+        "Amount": "-2709.95"
+    },
+    {
+        "Date": "2020-12-11 12:00:00 AM",
+        "Symbol": "BILI",
+        "Quantity": "-100.00000",
+        "Price": "73.27230000",
+        "Type": "Individual margin",
+        "Amount": "7322.11"
+    },
+    {
+        "Date": "2020-12-14 12:00:00 AM",
+        "Symbol": "PHIO",
+        "Quantity": "-1100.00000",
+        "Price": "2.90000000",
+        "Type": "Individual margin",
+        "Amount": "3179.97"
+    },
+    {
+        "Date": "2020-12-14 12:00:00 AM",
+        "Symbol": "NIO",
+        "Quantity": "-100.00000",
+        "Price": "44.50000000",
+        "Type": "Individual margin",
+        "Amount": "4444.95"
+    },
+    {
+        "Date": "2020-12-14 12:00:00 AM",
+        "Symbol": "LXRX",
+        "Quantity": "-1030.00000",
+        "Price": "3.26000000",
+        "Type": "Individual margin",
+        "Amount": "3347.77"
+    },
+    {
+        "Date": "2020-12-14 12:00:00 AM",
+        "Symbol": "LXRX",
+        "Quantity": "30.00000",
+        "Price": "2.80000000",
+        "Type": "Individual margin",
+        "Amount": "-88.95"
+    },
+    {
+        "Date": "2020-12-15 12:00:00 AM",
+        "Symbol": "PHIO",
+        "Quantity": "2000.00000",
+        "Price": "2.72500000",
+        "Type": "Individual margin",
+        "Amount": "-5469.90"
+    },
+    {
+        "Date": "2020-12-15 12:00:00 AM",
+        "Symbol": "NIO",
+        "Quantity": "200.00000",
+        "Price": "42.00000000",
+        "Type": "Individual margin",
+        "Amount": "-8404.95"
+    },
+    {
+        "Date": "2020-12-15 12:00:00 AM",
+        "Symbol": "MAC",
+        "Quantity": "500.00000",
+        "Price": "11.76830000",
+        "Type": "Individual margin",
+        "Amount": "-5889.15"
+    },
+    {
+        "Date": "2020-12-15 12:00:00 AM",
+        "Symbol": "BILI",
+        "Quantity": "-30.00000",
+        "Price": "81.00000000",
+        "Type": "Individual margin",
+        "Amount": "2424.99"
+    },
+    {
+        "Date": "2020-12-15 12:00:00 AM",
+        "Symbol": "BILI",
+        "Quantity": "30.00000",
+        "Price": "76.00000000",
+        "Type": "Individual margin",
+        "Amount": "-2284.95"
+    },
+    {
+        "Date": "2020-12-16 12:00:00 AM",
+        "Symbol": "XPEV",
+        "Quantity": "-100.00000",
+        "Price": "45.00000000",
+        "Type": "Individual margin",
+        "Amount": "4494.95"
+    },
+    {
+        "Date": "2020-12-16 12:00:00 AM",
+        "Symbol": "TIGR",
+        "Quantity": "-500.00000",
+        "Price": "5.80000000",
+        "Type": "Individual margin",
+        "Amount": "2894.93"
+    },
+    {
+        "Date": "2020-12-16 12:00:00 AM",
+        "Symbol": "PHIO",
+        "Quantity": "2000.00000",
+        "Price": "2.71500000",
+        "Type": "Individual margin",
+        "Amount": "-5449.90"
+    },
+    {
+        "Date": "2020-12-16 12:00:00 AM",
+        "Symbol": "NKLA",
+        "Quantity": "100.00000",
+        "Price": "16.80000000",
+        "Type": "Individual margin",
+        "Amount": "-1684.95"
+    },
+    {
+        "Date": "2020-12-16 12:00:00 AM",
+        "Symbol": "AC.TO",
+        "Quantity": "300.00000",
+        "Price": "26.60000000",
+        "Type": "Individual margin",
+        "Amount": "-7984.95"
+    },
+    {
+        "Date": "2020-12-17 12:00:00 AM",
+        "Symbol": "XPEV",
+        "Quantity": "-150.00000",
+        "Price": "49.80666667",
+        "Type": "Individual margin",
+        "Amount": "7460.93"
+    },
+    {
+        "Date": "2020-12-17 12:00:00 AM",
+        "Symbol": "OXY",
+        "Quantity": "200.00000",
+        "Price": "19.30000000",
+        "Type": "Individual margin",
+        "Amount": "-3864.95"
+    },
+    {
+        "Date": "2020-12-18 12:00:00 AM",
+        "Symbol": "AC.TO",
+        "Quantity": "200.00000",
+        "Price": "24.10000000",
+        "Type": "Individual margin",
+        "Amount": "-4824.95"
+    },
+    {
+        "Date": "2020-12-21 12:00:00 AM",
+        "Symbol": "XPEV",
+        "Quantity": "150.00000",
+        "Price": "45.53333333",
+        "Type": "Individual margin",
+        "Amount": "-6839.90"
+    },
+    {
+        "Date": "2020-12-21 12:00:00 AM",
+        "Symbol": "OXY",
+        "Quantity": "-200.00000",
+        "Price": "19.52000000",
+        "Type": "Individual margin",
+        "Amount": "3898.96"
+    },
+    {
+        "Date": "2020-12-21 12:00:00 AM",
+        "Symbol": "BILI",
+        "Quantity": "-50.00000",
+        "Price": "80.60000000",
+        "Type": "Individual margin",
+        "Amount": "4024.96"
+    },
+    {
+        "Date": "2020-12-21 12:00:00 AM",
+        "Symbol": "AC.TO",
+        "Quantity": "100.00000",
+        "Price": "23.50000000",
+        "Type": "Individual margin",
+        "Amount": "-2354.95"
+    },
+    {
+        "Date": "2020-12-22 12:00:00 AM",
+        "Symbol": "TIGR",
+        "Quantity": "-500.00000",
+        "Price": "6.20000000",
+        "Type": "Individual margin",
+        "Amount": "3094.93"
+    },
+    {
+        "Date": "2020-12-22 12:00:00 AM",
+        "Symbol": "PHIO",
+        "Quantity": "-1000.00000",
+        "Price": "2.85000000",
+        "Type": "Individual margin",
+        "Amount": "2839.98"
+    },
+    {
+        "Date": "2020-12-22 12:00:00 AM",
+        "Symbol": "MNSO",
+        "Quantity": "-200.00000",
+        "Price": "24.20000000",
+        "Type": "Individual margin",
+        "Amount": "4834.94"
+    },
+    {
+        "Date": "2020-12-22 12:00:00 AM",
+        "Symbol": "BILI",
+        "Quantity": "-30.00000",
+        "Price": "85.70000000",
+        "Type": "Individual margin",
+        "Amount": "2565.99"
+    },
+    {
+        "Date": "2020-12-23 12:00:00 AM",
+        "Symbol": "MNSO",
+        "Quantity": "-50.00000",
+        "Price": "28.20000000",
+        "Type": "Individual margin",
+        "Amount": "1405.01"
+    },
+    {
+        "Date": "2020-12-23 12:00:00 AM",
+        "Symbol": "BILI",
+        "Quantity": "-50.00000",
+        "Price": "88.59580000",
+        "Type": "Individual margin",
+        "Amount": "4424.74"
+    },
+    {
+        "Date": "2020-12-24 12:00:00 AM",
+        "Symbol": "XPEV",
+        "Quantity": "100.00000",
+        "Price": "45.00000000",
+        "Type": "Individual margin",
+        "Amount": "-4504.95"
+    },
+    {
+        "Date": "2020-12-24 12:00:00 AM",
+        "Symbol": "TIGR",
+        "Quantity": "-500.00000",
+        "Price": "6.60000000",
+        "Type": "Individual margin",
+        "Amount": "3294.92"
+    },
+    {
+        "Date": "2020-12-24 12:00:00 AM",
+        "Symbol": "BILI",
+        "Quantity": "50.00000",
+        "Price": "85.00000000",
+        "Type": "Individual margin",
+        "Amount": "-4254.95"
+    },
+    {
+        "Date": "2020-12-28 12:00:00 AM",
+        "Symbol": "NOK",
+        "Quantity": "-1000.00000",
+        "Price": "3.90000000",
+        "Type": "Individual margin",
+        "Amount": "3889.96"
+    },
+    {
+        "Date": "2020-12-28 12:00:00 AM",
+        "Symbol": "MNSO",
+        "Quantity": "-100.00000",
+        "Price": "30.20000000",
+        "Type": "Individual margin",
+        "Amount": "3014.98"
+    },
+    {
+        "Date": "2020-12-29 12:00:00 AM",
+        "Symbol": "BILI",
+        "Quantity": "50.00000",
+        "Price": "82.00000000",
+        "Type": "Individual margin",
+        "Amount": "-4104.95"
+    },
+    {
+        "Date": "2020-12-30 12:00:00 AM",
+        "Symbol": "TCOM",
+        "Quantity": "-100.00000",
+        "Price": "31.70000000",
+        "Type": "Individual margin",
+        "Amount": "3164.97"
+    },
+    {
+        "Date": "2020-12-30 12:00:00 AM",
+        "Symbol": "PHIO",
+        "Quantity": "1000.00000",
+        "Price": "2.65000000",
+        "Type": "Individual margin",
+        "Amount": "-2659.95"
+    },
+    {
+        "Date": "2020-12-30 12:00:00 AM",
+        "Symbol": "MNSO",
+        "Quantity": "150.00000",
+        "Price": "27.00000000",
+        "Type": "Individual margin",
+        "Amount": "-4054.95"
+    },
+    {
+        "Date": "2020-12-31 12:00:00 AM",
+        "Symbol": "TCOM",
+        "Quantity": "-100.00000",
+        "Price": "31.85000000",
+        "Type": "Individual margin",
+        "Amount": "3179.97"
+    },
+    {
+        "Date": "2020-12-31 12:00:00 AM",
+        "Symbol": "PHIO",
+        "Quantity": "2000.00000",
+        "Price": "2.55000000",
+        "Type": "Individual margin",
+        "Amount": "-5119.90"
+    }
+]

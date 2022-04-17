@@ -1,0 +1,6583 @@
+[
+    {
+     "Date": "2020-05-18 12:00:00 AM",
+     "Symbol": "DAL",
+     "Quantity": "30.00000",
+     "Price": "20.80000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-05-19 12:00:00 AM",
+     "Symbol": "MRNA",
+     "Quantity": "18.00000",
+     "Price": "76.00000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-05-20 12:00:00 AM",
+     "Symbol": "CVE.TO",
+     "Quantity": "115.00000",
+     "Price": "5.80000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-05-21 12:00:00 AM",
+     "Symbol": "HUYA",
+     "Quantity": "30.00000",
+     "Price": "17.57000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-05-22 12:00:00 AM",
+     "Symbol": "CHR.TO",
+     "Quantity": "360.00000",
+     "Price": "2.75000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-05-22 12:00:00 AM",
+     "Symbol": "M",
+     "Quantity": "99.00000",
+     "Price": "5.31830000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-05-26 12:00:00 AM",
+     "Symbol": "DAL",
+     "Quantity": "-30.00000",
+     "Price": "25.00000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-05-26 12:00:00 AM",
+     "Symbol": "M",
+     "Quantity": "-99.00000",
+     "Price": "5.75000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-05-26 12:00:00 AM",
+     "Symbol": "MRNA",
+     "Quantity": "9.00000",
+     "Price": "62.00000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-05-27 12:00:00 AM",
+     "Symbol": "AC.TO",
+     "Quantity": "95.00000",
+     "Price": "16.50000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-05-27 12:00:00 AM",
+     "Symbol": "CHR.TO",
+     "Quantity": "517.00000",
+     "Price": "2.90000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-05-27 12:00:00 AM",
+     "Symbol": "CVE.TO",
+     "Quantity": "251.00000",
+     "Price": "5.95000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-05-27 12:00:00 AM",
+     "Symbol": "MRNA",
+     "Quantity": "10.00000",
+     "Price": "51.13000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-05-29 12:00:00 AM",
+     "Symbol": "CHR.TO",
+     "Quantity": "180.00000",
+     "Price": "2.84000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-06-01 12:00:00 AM",
+     "Symbol": "AC.TO",
+     "Quantity": "50.00000",
+     "Price": "16.30000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-06-01 12:00:00 AM",
+     "Symbol": "MRNA",
+     "Quantity": "-20.00000",
+     "Price": "62.58500000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-06-02 12:00:00 AM",
+     "Symbol": "HTZGQ",
+     "Quantity": "1500.00000",
+     "Price": "0.90000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-06-03 12:00:00 AM",
+     "Symbol": "HTZGQ",
+     "Quantity": "1000.00000",
+     "Price": "0.79000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-06-04 12:00:00 AM",
+     "Symbol": "HTZGQ",
+     "Quantity": "-1000.00000",
+     "Price": "1.15000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-06-05 12:00:00 AM",
+     "Symbol": "BBD.B.TO",
+     "Quantity": "10000.00000",
+     "Price": "0.47000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-06-05 12:00:00 AM",
+     "Symbol": "CHR.TO",
+     "Quantity": "1000.00000",
+     "Price": "3.66000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-06-05 12:00:00 AM",
+     "Symbol": "CVE.TO",
+     "Quantity": "1000.00000",
+     "Price": "6.88000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-06-05 12:00:00 AM",
+     "Symbol": "MRNA",
+     "Quantity": "10.00000",
+     "Price": "58.48000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-06-05 12:00:00 AM",
+     "Symbol": "TUP",
+     "Quantity": "1000.00000",
+     "Price": "5.41000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-06-08 12:00:00 AM",
+     "Symbol": "CVE.TO",
+     "Quantity": "-1366.00000",
+     "Price": "7.60000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-06-09 12:00:00 AM",
+     "Symbol": "AC.TO",
+     "Quantity": "160.00000",
+     "Price": "21.30000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-06-09 12:00:00 AM",
+     "Symbol": "BBD.B.TO",
+     "Quantity": "-5000.00000",
+     "Price": "0.62000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-06-09 12:00:00 AM",
+     "Symbol": "HTZGQ",
+     "Quantity": "-300.00000",
+     "Price": "5.50000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-06-09 12:00:00 AM",
+     "Symbol": "M",
+     "Quantity": "400.00000",
+     "Price": "9.90000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-06-09 12:00:00 AM",
+     "Symbol": "TUP",
+     "Quantity": "740.00000",
+     "Price": "6.92702703",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-06-10 12:00:00 AM",
+     "Symbol": "AC.TO",
+     "Quantity": "-175.00000",
+     "Price": "20.10000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-06-10 12:00:00 AM",
+     "Symbol": "BBD.B.TO",
+     "Quantity": "-5000.00000",
+     "Price": "0.58000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-06-10 12:00:00 AM",
+     "Symbol": "HTZGQ",
+     "Quantity": "-300.00000",
+     "Price": "3.10000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-06-10 12:00:00 AM",
+     "Symbol": "TUP",
+     "Quantity": "100.00000",
+     "Price": "5.25000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-06-11 12:00:00 AM",
+     "Symbol": "CHR.TO",
+     "Quantity": "1000.00000",
+     "Price": "3.40000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-06-11 12:00:00 AM",
+     "Symbol": "HALL",
+     "Quantity": "500.00000",
+     "Price": "3.65000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-06-11 12:00:00 AM",
+     "Symbol": "HTZGQ",
+     "Quantity": "-900.00000",
+     "Price": "1.81000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-06-11 12:00:00 AM",
+     "Symbol": "M",
+     "Quantity": "-400.00000",
+     "Price": "7.02000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-06-11 12:00:00 AM",
+     "Symbol": "TUP",
+     "Quantity": "-1840.00000",
+     "Price": "4.34000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-06-12 12:00:00 AM",
+     "Symbol": "AC.TO",
+     "Quantity": "100.00000",
+     "Price": "18.90000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-06-12 12:00:00 AM",
+     "Symbol": "CHR.TO",
+     "Quantity": "300.00000",
+     "Price": "3.40000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-06-12 12:00:00 AM",
+     "Symbol": "MRNA",
+     "Quantity": "-12.00000",
+     "Price": "61.00000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-06-12 12:00:00 AM",
+     "Symbol": "MAC",
+     "Quantity": "200.00000",
+     "Price": "10.00000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-06-12 12:00:00 AM",
+     "Symbol": "ODP",
+     "Quantity": "2000.00000",
+     "Price": "2.62000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-06-12 12:00:00 AM",
+     "Symbol": "SWN",
+     "Quantity": "1000.00000",
+     "Price": "3.35000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-06-15 12:00:00 AM",
+     "Symbol": "HALL",
+     "Quantity": "280.00000",
+     "Price": "3.60000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-06-15 12:00:00 AM",
+     "Symbol": "MRNA",
+     "Quantity": "-15.00000",
+     "Price": "66.00000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-06-16 12:00:00 AM",
+     "Symbol": "HTZGQ",
+     "Quantity": "500.00000",
+     "Price": "2.01000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-06-18 12:00:00 AM",
+     "Symbol": "HTZGQ",
+     "Quantity": "320.00000",
+     "Price": "1.85000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-06-18 12:00:00 AM",
+     "Symbol": "HUYA",
+     "Quantity": "-30.00000",
+     "Price": "19.74000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-06-19 12:00:00 AM",
+     "Symbol": "SWN",
+     "Quantity": "500.00000",
+     "Price": "2.88000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-06-23 12:00:00 AM",
+     "Symbol": "BAC",
+     "Quantity": "30.00000",
+     "Price": "24.80000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-06-24 12:00:00 AM",
+     "Symbol": "HTZGQ",
+     "Quantity": "-520.00000",
+     "Price": "2.10000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-06-25 12:00:00 AM",
+     "Symbol": "HALL",
+     "Quantity": "100.00000",
+     "Price": "2.98000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-06-25 12:00:00 AM",
+     "Symbol": "ODP",
+     "Quantity": "200.00000",
+     "Price": "2.30000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-06-30 12:00:00 AM",
+     "Symbol": "ODP",
+     "Quantity": "500.00000",
+     "Price": "2.21750000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-06-30 12:00:00 AM",
+     "Symbol": "ODP",
+     "Quantity": "-1200.00000",
+     "Price": "2.50000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-07-01 12:00:00 AM",
+     "Symbol": "HALL",
+     "Quantity": "200.00000",
+     "Price": "3.29000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-07-13 12:00:00 AM",
+     "Symbol": "BAC",
+     "Quantity": "36.00000",
+     "Price": "23.93790000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-07-13 12:00:00 AM",
+     "Symbol": "HALL",
+     "Quantity": "200.00000",
+     "Price": "3.10000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-08-05 12:00:00 AM",
+     "Symbol": "BAC",
+     "Quantity": "-66.00000",
+     "Price": "25.50000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-08-06 12:00:00 AM",
+     "Symbol": "SWN",
+     "Quantity": "590.00000",
+     "Price": "2.90000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-08-11 12:00:00 AM",
+     "Symbol": "HALL",
+     "Quantity": "-1280.00000",
+     "Price": "3.75000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-08-12 12:00:00 AM",
+     "Symbol": "ODP",
+     "Quantity": "170.00000",
+     "Price": "19.50000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-08-12 12:00:00 AM",
+     "Symbol": "SWN",
+     "Quantity": "500.00000",
+     "Price": "2.95000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-08-14 12:00:00 AM",
+     "Symbol": "CHR.TO",
+     "Quantity": "1000.00000",
+     "Price": "2.75000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-08-14 12:00:00 AM",
+     "Symbol": "SWN",
+     "Quantity": "-1000.00000",
+     "Price": "3.17000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-09-01 12:00:00 AM",
+     "Symbol": "MAC",
+     "Quantity": "100.00000",
+     "Price": "7.70000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-09-01 12:00:00 AM",
+     "Symbol": "ODP",
+     "Quantity": "-50.00000",
+     "Price": "23.65000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-09-01 12:00:00 AM",
+     "Symbol": "SWN",
+     "Quantity": "200.00000",
+     "Price": "2.67000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-09-02 12:00:00 AM",
+     "Symbol": "MAC",
+     "Quantity": "100.00000",
+     "Price": "7.60000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-09-04 12:00:00 AM",
+     "Symbol": "MAC",
+     "Quantity": "-100.00000",
+     "Price": "8.15000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-09-04 12:00:00 AM",
+     "Symbol": "SWN",
+     "Quantity": "200.00000",
+     "Price": "2.55000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-09-08 12:00:00 AM",
+     "Symbol": "HTZGQ",
+     "Quantity": "273.00000",
+     "Price": "1.40000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-09-09 12:00:00 AM",
+     "Symbol": "MAC",
+     "Quantity": "200.00000",
+     "Price": "7.85000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-09-09 12:00:00 AM",
+     "Symbol": "ODP",
+     "Quantity": "-100.00000",
+     "Price": "22.30000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-09-16 12:00:00 AM",
+     "Symbol": "ODP",
+     "Quantity": "-170.00000",
+     "Price": "21.05264706",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-09-16 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "730.00000",
+     "Price": "4.32369863",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-09-17 12:00:00 AM",
+     "Symbol": "SWN",
+     "Quantity": "500.00000",
+     "Price": "2.36000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-09-28 12:00:00 AM",
+     "Symbol": "AC.TO",
+     "Quantity": "80.00000",
+     "Price": "15.90000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-09-28 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "-200.00000",
+     "Price": "4.90000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-10-05 12:00:00 AM",
+     "Symbol": "SWN",
+     "Quantity": "-500.00000",
+     "Price": "2.51000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-10-07 12:00:00 AM",
+     "Symbol": "HTZGQ",
+     "Quantity": "1000.00000",
+     "Price": "1.08000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-10-07 12:00:00 AM",
+     "Symbol": "SWN",
+     "Quantity": "-500.00000",
+     "Price": "2.76000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-10-08 12:00:00 AM",
+     "Symbol": "SWN",
+     "Quantity": "-500.00000",
+     "Price": "2.86000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-10-08 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "-330.00000",
+     "Price": "5.90000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-10-09 12:00:00 AM",
+     "Symbol": "CHR.TO",
+     "Quantity": "500.00000",
+     "Price": "2.30000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-10-12 12:00:00 AM",
+     "Symbol": "SWN",
+     "Quantity": "-500.00000",
+     "Price": "2.92000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-10-13 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "600.00000",
+     "Price": "5.38000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-10-15 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "300.00000",
+     "Price": "5.38000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-10-16 12:00:00 AM",
+     "Symbol": "HTZGQ",
+     "Quantity": "-1073.00000",
+     "Price": "2.14659832",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-10-16 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "220.00000",
+     "Price": "5.24090909",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-10-19 12:00:00 AM",
+     "Symbol": "NOK",
+     "Quantity": "100.00000",
+     "Price": "4.14000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-10-20 12:00:00 AM",
+     "Symbol": "NOK",
+     "Quantity": "300.00000",
+     "Price": "4.25000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-10-20 12:00:00 AM",
+     "Symbol": "SWN",
+     "Quantity": "-490.00000",
+     "Price": "2.90180000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-10-21 12:00:00 AM",
+     "Symbol": "CHR.TO",
+     "Quantity": "600.00000",
+     "Price": "2.26000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-10-21 12:00:00 AM",
+     "Symbol": "HTZGQ",
+     "Quantity": "300.00000",
+     "Price": "1.60000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-10-23 12:00:00 AM",
+     "Symbol": "CHR.TO",
+     "Quantity": "-957.00000",
+     "Price": "2.68061651",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-10-23 12:00:00 AM",
+     "Symbol": "NOK",
+     "Quantity": "500.00000",
+     "Price": "4.23000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-10-26 12:00:00 AM",
+     "Symbol": "CHR.TO",
+     "Quantity": "-1000.00000",
+     "Price": "3.02000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-10-26 12:00:00 AM",
+     "Symbol": "CHR.TO",
+     "Quantity": "-1000.00000",
+     "Price": "3.09100000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-10-26 12:00:00 AM",
+     "Symbol": "NOK",
+     "Quantity": "500.00000",
+     "Price": "4.25000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-10-26 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "1500.00000",
+     "Price": "5.56953333",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-10-27 12:00:00 AM",
+     "Symbol": "GM",
+     "Quantity": "100.00000",
+     "Price": "35.59830000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-10-28 12:00:00 AM",
+     "Symbol": "NOK",
+     "Quantity": "500.00000",
+     "Price": "4.02000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-10-28 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "500.00000",
+     "Price": "5.56200000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-10-29 12:00:00 AM",
+     "Symbol": "AC.TO",
+     "Quantity": "100.00000",
+     "Price": "14.85000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-10-29 12:00:00 AM",
+     "Symbol": "AC.TO",
+     "Quantity": "10.00000",
+     "Price": "14.85000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-10-29 12:00:00 AM",
+     "Symbol": "AC.TO",
+     "Quantity": "200.00000",
+     "Price": "14.85000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-10-29 12:00:00 AM",
+     "Symbol": "HTZGQ",
+     "Quantity": "-800.00000",
+     "Price": "1.80000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-10-29 12:00:00 AM",
+     "Symbol": "NOK",
+     "Quantity": "2000.00000",
+     "Price": "3.33470000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-10-29 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "500.00000",
+     "Price": "5.53000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-10-29 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "-1000.00000",
+     "Price": "5.84000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-11-03 12:00:00 AM",
+     "Symbol": "GM",
+     "Quantity": "-100.00000",
+     "Price": "35.65000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-11-04 12:00:00 AM",
+     "Symbol": "NOK",
+     "Quantity": "1000.00000",
+     "Price": "3.40000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-11-05 12:00:00 AM",
+     "Symbol": "AC.TO",
+     "Quantity": "-200.00000",
+     "Price": "16.00000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-11-05 12:00:00 AM",
+     "Symbol": "CHR.TO",
+     "Quantity": "-1000.00000",
+     "Price": "3.05000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-11-05 12:00:00 AM",
+     "Symbol": "NOK",
+     "Quantity": "-1400.00000",
+     "Price": "3.60000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-11-05 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "250.00000",
+     "Price": "5.34890000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-11-06 12:00:00 AM",
+     "Symbol": "NOK",
+     "Quantity": "500.00000",
+     "Price": "3.49000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-11-06 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "500.00000",
+     "Price": "5.34860000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-11-09 12:00:00 AM",
+     "Symbol": "AC.TO",
+     "Quantity": "-210.00000",
+     "Price": "19.50476190",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-11-09 12:00:00 AM",
+     "Symbol": "CHR.TO",
+     "Quantity": "-1500.00000",
+     "Price": "3.50000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-11-09 12:00:00 AM",
+     "Symbol": "MAC",
+     "Quantity": "-200.00000",
+     "Price": "8.35000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-11-09 12:00:00 AM",
+     "Symbol": "NOK",
+     "Quantity": "2100.00000",
+     "Price": "3.71255238",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-11-09 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "500.00000",
+     "Price": "5.60000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-11-09 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "-600.00000",
+     "Price": "5.88000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-11-10 12:00:00 AM",
+     "Symbol": "MAC",
+     "Quantity": "-300.00000",
+     "Price": "9.30000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-11-10 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "1000.00000",
+     "Price": "5.44890000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-11-16 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "-1000.00000",
+     "Price": "5.80000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-11-17 12:00:00 AM",
+     "Symbol": "AC.TO",
+     "Quantity": "-210.00000",
+     "Price": "20.50000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-11-17 12:00:00 AM",
+     "Symbol": "CBLI",
+     "Quantity": "200.00000",
+     "Price": "2.99000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-11-18 12:00:00 AM",
+     "Symbol": "MOGO",
+     "Quantity": "1500.00000",
+     "Price": "2.04670000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-11-18 12:00:00 AM",
+     "Symbol": "NCLH",
+     "Quantity": "100.00000",
+     "Price": "20.50000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-11-18 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "1000.00000",
+     "Price": "5.63000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-11-20 12:00:00 AM",
+     "Symbol": "NOK",
+     "Quantity": "-5600.00000",
+     "Price": "3.95375000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-11-20 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "-3000.00000",
+     "Price": "5.82086667",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-11-23 12:00:00 AM",
+     "Symbol": "MOGO",
+     "Quantity": "-1000.00000",
+     "Price": "2.28000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-11-23 12:00:00 AM",
+     "Symbol": "NCLH",
+     "Quantity": "100.00000",
+     "Price": "20.34000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-11-23 12:00:00 AM",
+     "Symbol": "NOK",
+     "Quantity": "-500.00000",
+     "Price": "3.95000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-11-23 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "-770.00000",
+     "Price": "6.75350649",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-11-24 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "400.00000",
+     "Price": "6.69000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-11-25 12:00:00 AM",
+     "Symbol": "MOGO",
+     "Quantity": "1000.00000",
+     "Price": "2.35000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-11-25 12:00:00 AM",
+     "Symbol": "NCLH",
+     "Quantity": "-200.00000",
+     "Price": "22.70000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-11-25 12:00:00 AM",
+     "Symbol": "NKLA",
+     "Quantity": "100.00000",
+     "Price": "29.30000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-11-27 12:00:00 AM",
+     "Symbol": "NKLA",
+     "Quantity": "100.00000",
+     "Price": "29.50000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-11-27 12:00:00 AM",
+     "Symbol": "TIGR",
+     "Quantity": "1000.00000",
+     "Price": "6.54000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-11-27 12:00:00 AM",
+     "Symbol": "MOGO",
+     "Quantity": "650.00000",
+     "Price": "2.35000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-11-30 12:00:00 AM",
+     "Symbol": "NKLA",
+     "Quantity": "300.00000",
+     "Price": "21.03333333",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-11-30 12:00:00 AM",
+     "Symbol": "TIGR",
+     "Quantity": "500.00000",
+     "Price": "5.90000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-11-30 12:00:00 AM",
+     "Symbol": "MOGO",
+     "Quantity": "-2000.00000",
+     "Price": "2.55000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-11-30 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "200.00000",
+     "Price": "7.13890000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-12-01 12:00:00 AM",
+     "Symbol": "NNDM",
+     "Quantity": "500.00000",
+     "Price": "6.46000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-12-01 12:00:00 AM",
+     "Symbol": "NKLA",
+     "Quantity": "100.00000",
+     "Price": "17.04000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-12-01 12:00:00 AM",
+     "Symbol": "CBLI",
+     "Quantity": "-200.00000",
+     "Price": "3.15000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-12-01 12:00:00 AM",
+     "Symbol": "MOGO",
+     "Quantity": "-150.00000",
+     "Price": "3.33230000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-12-01 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "800.00000",
+     "Price": "7.40000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-12-03 12:00:00 AM",
+     "Symbol": "NNDM",
+     "Quantity": "-500.00000",
+     "Price": "7.70000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-12-03 12:00:00 AM",
+     "Symbol": "PHIO",
+     "Quantity": "2000.00000",
+     "Price": "2.46000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-12-03 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "50.00000",
+     "Price": "52.50000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-12-03 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "-50.00000",
+     "Price": "53.03720000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-12-04 12:00:00 AM",
+     "Symbol": "PHIO",
+     "Quantity": "100.00000",
+     "Price": "2.30000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-12-04 12:00:00 AM",
+     "Symbol": "SGBX",
+     "Quantity": "1000.00000",
+     "Price": "3.13000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-12-04 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "-600.00000",
+     "Price": "8.85000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-12-07 12:00:00 AM",
+     "Symbol": "CHL",
+     "Quantity": "-100.00000",
+     "Price": "29.57110000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-12-07 12:00:00 AM",
+     "Symbol": "NIO",
+     "Quantity": "-50.00000",
+     "Price": "45.47220000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-12-07 12:00:00 AM",
+     "Symbol": "NKLA",
+     "Quantity": "200.00000",
+     "Price": "18.50000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-12-07 12:00:00 AM",
+     "Symbol": "PHIO",
+     "Quantity": "-1000.00000",
+     "Price": "2.45000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-12-07 12:00:00 AM",
+     "Symbol": "SGBX",
+     "Quantity": "-1000.00000",
+     "Price": "3.40000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-12-07 12:00:00 AM",
+     "Symbol": "NKLA",
+     "Quantity": "200.00000",
+     "Price": "18.80000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-12-08 12:00:00 AM",
+     "Symbol": "CHL",
+     "Quantity": "100.00000",
+     "Price": "29.21000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-12-08 12:00:00 AM",
+     "Symbol": "NOK",
+     "Quantity": "2000.00000",
+     "Price": "4.15000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-12-09 12:00:00 AM",
+     "Symbol": "BILI",
+     "Quantity": "-100.00000",
+     "Price": "73.27230000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-12-09 12:00:00 AM",
+     "Symbol": "LXRX",
+     "Quantity": "1000.00000",
+     "Price": "2.70000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-12-09 12:00:00 AM",
+     "Symbol": "MAC",
+     "Quantity": "-500.00000",
+     "Price": "12.33000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-12-09 12:00:00 AM",
+     "Symbol": "NIO",
+     "Quantity": "-50.00000",
+     "Price": "45.77000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-12-10 12:00:00 AM",
+     "Symbol": "LXRX",
+     "Quantity": "30.00000",
+     "Price": "2.80000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-12-10 12:00:00 AM",
+     "Symbol": "LXRX",
+     "Quantity": "-1030.00000",
+     "Price": "3.26000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-12-10 12:00:00 AM",
+     "Symbol": "NIO",
+     "Quantity": "-100.00000",
+     "Price": "44.50000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-12-10 12:00:00 AM",
+     "Symbol": "PHIO",
+     "Quantity": "-1100.00000",
+     "Price": "2.90000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-12-11 12:00:00 AM",
+     "Symbol": "BILI",
+     "Quantity": "30.00000",
+     "Price": "76.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-12-11 12:00:00 AM",
+     "Symbol": "BILI",
+     "Quantity": "-30.00000",
+     "Price": "81.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-12-11 12:00:00 AM",
+     "Symbol": "MAC",
+     "Quantity": "500.00000",
+     "Price": "11.76830000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-12-11 12:00:00 AM",
+     "Symbol": "NIO",
+     "Quantity": "200.00000",
+     "Price": "42.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-12-11 12:00:00 AM",
+     "Symbol": "PHIO",
+     "Quantity": "2000.00000",
+     "Price": "2.72500000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-12-11 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "250.00000",
+     "Price": "8.10890000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-12-14 12:00:00 AM",
+     "Symbol": "AC.TO",
+     "Quantity": "300.00000",
+     "Price": "26.60000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-12-14 12:00:00 AM",
+     "Symbol": "NKLA",
+     "Quantity": "100.00000",
+     "Price": "16.80000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-12-14 12:00:00 AM",
+     "Symbol": "PHIO",
+     "Quantity": "2000.00000",
+     "Price": "2.71500000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-12-14 12:00:00 AM",
+     "Symbol": "TIGR",
+     "Quantity": "-500.00000",
+     "Price": "5.80000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-12-14 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "-100.00000",
+     "Price": "45.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-12-15 12:00:00 AM",
+     "Symbol": "OXY",
+     "Quantity": "200.00000",
+     "Price": "19.30000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-12-15 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "-150.00000",
+     "Price": "49.80666667",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-12-16 12:00:00 AM",
+     "Symbol": "AC.TO",
+     "Quantity": "200.00000",
+     "Price": "24.10000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-12-17 12:00:00 AM",
+     "Symbol": "AC.TO",
+     "Quantity": "100.00000",
+     "Price": "23.50000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-12-17 12:00:00 AM",
+     "Symbol": "BILI",
+     "Quantity": "-50.00000",
+     "Price": "80.60000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-12-17 12:00:00 AM",
+     "Symbol": "OXY",
+     "Quantity": "-200.00000",
+     "Price": "19.52000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-12-17 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "150.00000",
+     "Price": "45.53333333",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-12-18 12:00:00 AM",
+     "Symbol": "BILI",
+     "Quantity": "-30.00000",
+     "Price": "85.70000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-12-18 12:00:00 AM",
+     "Symbol": "MNSO",
+     "Quantity": "-200.00000",
+     "Price": "24.20000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-12-18 12:00:00 AM",
+     "Symbol": "PHIO",
+     "Quantity": "-1000.00000",
+     "Price": "2.85000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-12-18 12:00:00 AM",
+     "Symbol": "TIGR",
+     "Quantity": "-500.00000",
+     "Price": "6.20000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-12-21 12:00:00 AM",
+     "Symbol": "BILI",
+     "Quantity": "-50.00000",
+     "Price": "88.59580000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-12-21 12:00:00 AM",
+     "Symbol": "MNSO",
+     "Quantity": "-50.00000",
+     "Price": "28.20000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-12-21 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "-500.00000",
+     "Price": "8.32000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-12-22 12:00:00 AM",
+     "Symbol": "BILI",
+     "Quantity": "50.00000",
+     "Price": "85.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-12-22 12:00:00 AM",
+     "Symbol": "TIGR",
+     "Quantity": "-500.00000",
+     "Price": "6.60000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-12-22 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "100.00000",
+     "Price": "45.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-12-22 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "500.00000",
+     "Price": "8.10000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-12-23 12:00:00 AM",
+     "Symbol": "MNSO",
+     "Quantity": "-100.00000",
+     "Price": "30.20000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-12-23 12:00:00 AM",
+     "Symbol": "NOK",
+     "Quantity": "-1000.00000",
+     "Price": "3.90000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-12-24 12:00:00 AM",
+     "Symbol": "BILI",
+     "Quantity": "50.00000",
+     "Price": "82.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-12-28 12:00:00 AM",
+     "Symbol": "MNSO",
+     "Quantity": "150.00000",
+     "Price": "27.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-12-28 12:00:00 AM",
+     "Symbol": "PHIO",
+     "Quantity": "1000.00000",
+     "Price": "2.65000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-12-28 12:00:00 AM",
+     "Symbol": "TCOM",
+     "Quantity": "-100.00000",
+     "Price": "31.70000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-12-29 12:00:00 AM",
+     "Symbol": "PHIO",
+     "Quantity": "2000.00000",
+     "Price": "2.55000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-12-29 12:00:00 AM",
+     "Symbol": "TCOM",
+     "Quantity": "-100.00000",
+     "Price": "31.85000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-12-30 12:00:00 AM",
+     "Symbol": "BILI",
+     "Quantity": "-30.00000",
+     "Price": "92.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-12-30 12:00:00 AM",
+     "Symbol": "MNSO",
+     "Quantity": "-50.00000",
+     "Price": "26.50000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2020-12-30 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "-500.00000",
+     "Price": "8.70000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2020-12-31 12:00:00 AM",
+     "Symbol": "PHIO",
+     "Quantity": "-1000.00000",
+     "Price": "2.71000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-01-04 12:00:00 AM",
+     "Symbol": "MNSO",
+     "Quantity": "100.00000",
+     "Price": "25.60000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-01-05 12:00:00 AM",
+     "Symbol": "BILI",
+     "Quantity": "-20.00000",
+     "Price": "101.42320000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-01-06 12:00:00 AM",
+     "Symbol": "MNSO",
+     "Quantity": "-50.00000",
+     "Price": "28.20000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-01-06 12:00:00 AM",
+     "Symbol": "NKLA",
+     "Quantity": "-200.00000",
+     "Price": "16.60000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-01-06 12:00:00 AM",
+     "Symbol": "PHIO",
+     "Quantity": "-2000.00000",
+     "Price": "2.86000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-01-08 12:00:00 AM",
+     "Symbol": "BILI",
+     "Quantity": "-20.00000",
+     "Price": "117.58460000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-01-08 12:00:00 AM",
+     "Symbol": "PHIO",
+     "Quantity": "-1000.00000",
+     "Price": "3.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-01-11 12:00:00 AM",
+     "Symbol": "MNSO",
+     "Quantity": "-40.00000",
+     "Price": "29.10000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-01-11 12:00:00 AM",
+     "Symbol": "PHIO",
+     "Quantity": "-800.00000",
+     "Price": "3.07000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-01-12 12:00:00 AM",
+     "Symbol": "BILI",
+     "Quantity": "-20.00000",
+     "Price": "118.52000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-01-12 12:00:00 AM",
+     "Symbol": "NKLA",
+     "Quantity": "-200.00000",
+     "Price": "18.50000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-01-12 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "510.00000",
+     "Price": "8.65215686",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-01-13 12:00:00 AM",
+     "Symbol": "COTY",
+     "Quantity": "800.00000",
+     "Price": "7.20000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-01-13 12:00:00 AM",
+     "Symbol": "MNSO",
+     "Quantity": "-100.00000",
+     "Price": "30.50000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-01-13 12:00:00 AM",
+     "Symbol": "NKLA",
+     "Quantity": "-200.00000",
+     "Price": "21.50000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-01-13 12:00:00 AM",
+     "Symbol": "NKLA",
+     "Quantity": "-100.00000",
+     "Price": "22.00000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-01-14 12:00:00 AM",
+     "Symbol": "NKLA",
+     "Quantity": "-100.00000",
+     "Price": "21.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-01-14 12:00:00 AM",
+     "Symbol": "NOK",
+     "Quantity": "500.00000",
+     "Price": "4.17000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-01-14 12:00:00 AM",
+     "Symbol": "PHIO",
+     "Quantity": "-600.00000",
+     "Price": "2.95000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-01-14 12:00:00 AM",
+     "Symbol": "NKLA",
+     "Quantity": "-100.00000",
+     "Price": "21.00000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-01-14 12:00:00 AM",
+     "Symbol": "NOK",
+     "Quantity": "500.00000",
+     "Price": "4.18000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-01-14 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "-500.00000",
+     "Price": "9.20000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-01-15 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "500.00000",
+     "Price": "8.99000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-01-19 12:00:00 AM",
+     "Symbol": "BILI",
+     "Quantity": "-20.00000",
+     "Price": "132.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-01-19 12:00:00 AM",
+     "Symbol": "MNSO",
+     "Quantity": "-50.00000",
+     "Price": "30.50000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-01-19 12:00:00 AM",
+     "Symbol": "NOK",
+     "Quantity": "500.00000",
+     "Price": "4.05000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-01-19 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "-500.00000",
+     "Price": "9.90000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-01-20 12:00:00 AM",
+     "Symbol": "NOK",
+     "Quantity": "-1000.00000",
+     "Price": "4.20000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-01-20 12:00:00 AM",
+     "Symbol": "PHIO",
+     "Quantity": "-600.00000",
+     "Price": "3.05000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-01-20 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "250.00000",
+     "Price": "9.75000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-01-21 12:00:00 AM",
+     "Symbol": "AC.TO",
+     "Quantity": "100.00000",
+     "Price": "21.90000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-01-21 12:00:00 AM",
+     "Symbol": "BILI",
+     "Quantity": "100.00000",
+     "Price": "124.07800000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-01-21 12:00:00 AM",
+     "Symbol": "MNSO",
+     "Quantity": "230.00000",
+     "Price": "29.57608696",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-01-21 12:00:00 AM",
+     "Symbol": "TCOM",
+     "Quantity": "200.00000",
+     "Price": "33.63630000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-01-21 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "400.00000",
+     "Price": "9.70000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-01-21 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "-500.00000",
+     "Price": "10.00000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-01-22 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "-300.00000",
+     "Price": "10.51000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-01-25 12:00:00 AM",
+     "Symbol": "BILI",
+     "Quantity": "20.00000",
+     "Price": "143.83990000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-01-25 12:00:00 AM",
+     "Symbol": "BILI",
+     "Quantity": "-20.00000",
+     "Price": "138.26350000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-01-25 12:00:00 AM",
+     "Symbol": "MNSO",
+     "Quantity": "-100.00000",
+     "Price": "34.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-01-25 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "880.00000",
+     "Price": "10.24318182",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-01-26 12:00:00 AM",
+     "Symbol": "BILI",
+     "Quantity": "40.00000",
+     "Price": "127.50000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-01-26 12:00:00 AM",
+     "Symbol": "MNSO",
+     "Quantity": "220.00000",
+     "Price": "31.74566364",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-01-26 12:00:00 AM",
+     "Symbol": "NKLA",
+     "Quantity": "-100.00000",
+     "Price": "22.59000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-01-26 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "230.00000",
+     "Price": "9.90000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-01-27 12:00:00 AM",
+     "Symbol": "MNSO",
+     "Quantity": "40.00000",
+     "Price": "28.90900000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-01-27 12:00:00 AM",
+     "Symbol": "NKLA",
+     "Quantity": "-100.00000",
+     "Price": "28.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-01-27 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "1000.00000",
+     "Price": "9.20000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-01-27 12:00:00 AM",
+     "Symbol": "NOK",
+     "Quantity": "-500.00000",
+     "Price": "5.50000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-01-28 12:00:00 AM",
+     "Symbol": "NOK",
+     "Quantity": "1000.00000",
+     "Price": "4.95398000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-01-29 12:00:00 AM",
+     "Symbol": "BILI",
+     "Quantity": "20.00000",
+     "Price": "115.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-01-29 12:00:00 AM",
+     "Symbol": "COTY",
+     "Quantity": "500.00000",
+     "Price": "6.50000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-01-29 12:00:00 AM",
+     "Symbol": "NOK",
+     "Quantity": "-1000.00000",
+     "Price": "5.20000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-02-01 12:00:00 AM",
+     "Symbol": "NOK",
+     "Quantity": "1000.00000",
+     "Price": "4.75000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-02-01 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "500.00000",
+     "Price": "9.05000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-02-01 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "200.00000",
+     "Price": "9.17810000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-02-02 12:00:00 AM",
+     "Symbol": "NOK",
+     "Quantity": "500.00000",
+     "Price": "4.60000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-02-03 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "-500.00000",
+     "Price": "9.30000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-02-04 12:00:00 AM",
+     "Symbol": "BILI",
+     "Quantity": "20.00000",
+     "Price": "141.50000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-02-04 12:00:00 AM",
+     "Symbol": "BILI",
+     "Quantity": "-20.00000",
+     "Price": "151.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-02-04 12:00:00 AM",
+     "Symbol": "NOK",
+     "Quantity": "500.00000",
+     "Price": "4.48850000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-02-04 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "500.00000",
+     "Price": "9.18000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-02-05 12:00:00 AM",
+     "Symbol": "COTY",
+     "Quantity": "-500.00000",
+     "Price": "7.30000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-02-05 12:00:00 AM",
+     "Symbol": "NOK",
+     "Quantity": "500.00000",
+     "Price": "4.35000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-02-05 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "-1000.00000",
+     "Price": "9.67500000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-02-08 12:00:00 AM",
+     "Symbol": "ALYA",
+     "Quantity": "2000.00000",
+     "Price": "2.65000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-02-08 12:00:00 AM",
+     "Symbol": "BILI",
+     "Quantity": "-20.00000",
+     "Price": "143.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-02-08 12:00:00 AM",
+     "Symbol": "COTY",
+     "Quantity": "-800.00000",
+     "Price": "7.95000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-02-08 12:00:00 AM",
+     "Symbol": "NOK",
+     "Quantity": "1000.00000",
+     "Price": "4.30000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-02-08 12:00:00 AM",
+     "Symbol": "SQFT",
+     "Quantity": "1000.00000",
+     "Price": "3.73000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-02-09 12:00:00 AM",
+     "Symbol": "COTY",
+     "Quantity": "800.00000",
+     "Price": "6.73125000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-02-09 12:00:00 AM",
+     "Symbol": "SQFT",
+     "Quantity": "-1000.00000",
+     "Price": "3.92000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-02-09 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "-300.00000",
+     "Price": "10.30000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-02-09 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "-600.00000",
+     "Price": "10.30000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-02-10 12:00:00 AM",
+     "Symbol": "BILI",
+     "Quantity": "-20.00000",
+     "Price": "145.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-02-10 12:00:00 AM",
+     "Symbol": "COTY",
+     "Quantity": "300.00000",
+     "Price": "6.65000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-02-10 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "-300.00000",
+     "Price": "10.30000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-02-11 12:00:00 AM",
+     "Symbol": "BILI",
+     "Quantity": "-10.00000",
+     "Price": "157.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-02-11 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "-200.00000",
+     "Price": "10.30000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-02-11 12:00:00 AM",
+     "Symbol": "GROW",
+     "Quantity": "1300.00000",
+     "Price": "7.18000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-02-12 12:00:00 AM",
+     "Symbol": "BILI",
+     "Quantity": "-10.00000",
+     "Price": "153.50000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-02-12 12:00:00 AM",
+     "Symbol": "ALYA",
+     "Quantity": "1000.00000",
+     "Price": "2.62000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-02-12 12:00:00 AM",
+     "Symbol": "NOK",
+     "Quantity": "500.00000",
+     "Price": "4.17000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-02-12 12:00:00 AM",
+     "Symbol": "GROW",
+     "Quantity": "-1300.00000",
+     "Price": "7.68000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-02-12 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "-520.00000",
+     "Price": "10.75384615",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-02-16 12:00:00 AM",
+     "Symbol": "AC.TO",
+     "Quantity": "-100.00000",
+     "Price": "22.87000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-02-16 12:00:00 AM",
+     "Symbol": "AC.TO",
+     "Quantity": "-100.00000",
+     "Price": "23.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-02-16 12:00:00 AM",
+     "Symbol": "COTY",
+     "Quantity": "-500.00000",
+     "Price": "7.15000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-02-17 12:00:00 AM",
+     "Symbol": "AC.TO",
+     "Quantity": "-100.00000",
+     "Price": "23.44000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-02-17 12:00:00 AM",
+     "Symbol": "AC.TO",
+     "Quantity": "-100.00000",
+     "Price": "24.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-02-17 12:00:00 AM",
+     "Symbol": "COTY",
+     "Quantity": "-600.00000",
+     "Price": "7.50000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-02-17 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "-300.00000",
+     "Price": "10.25000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-02-18 12:00:00 AM",
+     "Symbol": "BILI",
+     "Quantity": "40.00000",
+     "Price": "141.73640000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-02-18 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "500.00000",
+     "Price": "5.55000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-02-18 12:00:00 AM",
+     "Symbol": "ALYA",
+     "Quantity": "1000.00000",
+     "Price": "2.70000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-02-18 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "1000.00000",
+     "Price": "5.70000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-02-18 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "300.00000",
+     "Price": "10.20000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-02-19 12:00:00 AM",
+     "Symbol": "BILI",
+     "Quantity": "-20.00000",
+     "Price": "149.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-02-19 12:00:00 AM",
+     "Symbol": "ALYA",
+     "Quantity": "900.00000",
+     "Price": "2.62000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-02-22 12:00:00 AM",
+     "Symbol": "ALYA",
+     "Quantity": "1000.00000",
+     "Price": "2.52000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-02-22 12:00:00 AM",
+     "Symbol": "BILI",
+     "Quantity": "80.00000",
+     "Price": "133.15780000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-02-22 12:00:00 AM",
+     "Symbol": "NOK",
+     "Quantity": "500.00000",
+     "Price": "4.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-02-22 12:00:00 AM",
+     "Symbol": "QUIK",
+     "Quantity": "500.00000",
+     "Price": "8.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-02-22 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "-500.00000",
+     "Price": "6.12000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-02-22 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "91.00000",
+     "Price": "10.00000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-02-23 12:00:00 AM",
+     "Symbol": "BILI",
+     "Quantity": "20.00000",
+     "Price": "119.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-02-23 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "500.00000",
+     "Price": "5.35000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-02-24 12:00:00 AM",
+     "Symbol": "AC.TO",
+     "Quantity": "-300.00000",
+     "Price": "26.20000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-02-24 12:00:00 AM",
+     "Symbol": "NOK",
+     "Quantity": "1000.00000",
+     "Price": "3.93000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-02-24 12:00:00 AM",
+     "Symbol": "QUIK",
+     "Quantity": "500.00000",
+     "Price": "6.80000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-02-24 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "500.00000",
+     "Price": "5.60000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-02-24 12:00:00 AM",
+     "Symbol": "ALYA",
+     "Quantity": "518.00000",
+     "Price": "2.25000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-02-25 12:00:00 AM",
+     "Symbol": "ALYA",
+     "Quantity": "1000.00000",
+     "Price": "2.37000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-02-25 12:00:00 AM",
+     "Symbol": "BILI",
+     "Quantity": "30.00000",
+     "Price": "140.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-02-25 12:00:00 AM",
+     "Symbol": "BILI",
+     "Quantity": "-30.00000",
+     "Price": "145.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-02-25 12:00:00 AM",
+     "Symbol": "NOK",
+     "Quantity": "500.00000",
+     "Price": "4.13000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-02-25 12:00:00 AM",
+     "Symbol": "QUIK",
+     "Quantity": "500.00000",
+     "Price": "6.55000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-02-25 12:00:00 AM",
+     "Symbol": "QUIK",
+     "Quantity": "-119.00000",
+     "Price": "7.42000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-02-25 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "500.00000",
+     "Price": "5.65000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-02-26 12:00:00 AM",
+     "Symbol": "BILI",
+     "Quantity": "20.00000",
+     "Price": "127.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-02-26 12:00:00 AM",
+     "Symbol": "NOK",
+     "Quantity": "500.00000",
+     "Price": "3.99000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-02-26 12:00:00 AM",
+     "Symbol": "QUIK",
+     "Quantity": "-705.00000",
+     "Price": "7.74085106",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-02-26 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "500.00000",
+     "Price": "5.49800000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-03-01 12:00:00 AM",
+     "Symbol": "ALYA",
+     "Quantity": "1000.00000",
+     "Price": "2.27000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-03-01 12:00:00 AM",
+     "Symbol": "BILI",
+     "Quantity": "-50.00000",
+     "Price": "139.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-03-01 12:00:00 AM",
+     "Symbol": "NOK",
+     "Quantity": "1000.00000",
+     "Price": "4.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-03-01 12:00:00 AM",
+     "Symbol": "QUIK",
+     "Quantity": "-676.00000",
+     "Price": "9.70414201",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-03-01 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "500.00000",
+     "Price": "5.50000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-03-01 12:00:00 AM",
+     "Symbol": "NOK",
+     "Quantity": "1000.00000",
+     "Price": "4.00000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-03-01 12:00:00 AM",
+     "Symbol": "NOK",
+     "Quantity": "-500.00000",
+     "Price": "4.00160000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-03-01 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "600.00000",
+     "Price": "5.55000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-03-01 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "-500.00000",
+     "Price": "10.00000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-03-02 12:00:00 AM",
+     "Symbol": "ALYA",
+     "Quantity": "1000.00000",
+     "Price": "2.27000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-03-02 12:00:00 AM",
+     "Symbol": "NIO",
+     "Quantity": "60.00000",
+     "Price": "44.30000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-03-04 12:00:00 AM",
+     "Symbol": "BILI",
+     "Quantity": "50.00000",
+     "Price": "131.92000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-03-04 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "500.00000",
+     "Price": "4.40000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-03-04 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "160.00000",
+     "Price": "8.35000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-03-05 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "500.00000",
+     "Price": "3.85000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-03-09 12:00:00 AM",
+     "Symbol": "ALYA",
+     "Quantity": "-1000.00000",
+     "Price": "2.40000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-03-09 12:00:00 AM",
+     "Symbol": "NIO",
+     "Quantity": "-30.00000",
+     "Price": "41.00380000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-03-09 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "-500.00000",
+     "Price": "4.20000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-03-10 12:00:00 AM",
+     "Symbol": "BILI",
+     "Quantity": "50.00000",
+     "Price": "108.68000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-03-10 12:00:00 AM",
+     "Symbol": "NIO",
+     "Quantity": "-30.00000",
+     "Price": "45.03310000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-03-11 12:00:00 AM",
+     "Symbol": "ALYA",
+     "Quantity": "-431.00000",
+     "Price": "2.48000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-03-11 12:00:00 AM",
+     "Symbol": "BILI",
+     "Quantity": "-50.00000",
+     "Price": "112.54110000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-03-12 12:00:00 AM",
+     "Symbol": "ALYA",
+     "Quantity": "-2000.00000",
+     "Price": "2.45001000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-03-12 12:00:00 AM",
+     "Symbol": "NOK",
+     "Quantity": "-1000.00000",
+     "Price": "4.09000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-03-12 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "-1000.00000",
+     "Price": "4.41005000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-03-12 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "-50.00000",
+     "Price": "33.25000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-03-15 12:00:00 AM",
+     "Symbol": "JG",
+     "Quantity": "1000.00000",
+     "Price": "5.77000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-03-15 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "-500.00000",
+     "Price": "5.05000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-03-16 12:00:00 AM",
+     "Symbol": "JG",
+     "Quantity": "500.00000",
+     "Price": "6.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-03-16 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "-100.00000",
+     "Price": "37.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-03-16 12:00:00 AM",
+     "Symbol": "ALYA",
+     "Quantity": "-1100.00000",
+     "Price": "2.44181818",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-03-16 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "-751.00000",
+     "Price": "8.80000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-03-17 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "-100.00000",
+     "Price": "35.40000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-03-17 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "1000.00000",
+     "Price": "4.86000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-03-18 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "-100.00000",
+     "Price": "36.60000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-03-18 12:00:00 AM",
+     "Symbol": "NOK",
+     "Quantity": "1000.00000",
+     "Price": "4.06000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-03-19 12:00:00 AM",
+     "Symbol": "JG",
+     "Quantity": "500.00000",
+     "Price": "5.35000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-03-19 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "-100.00000",
+     "Price": "36.50000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-03-19 12:00:00 AM",
+     "Symbol": "ALYA",
+     "Quantity": "-2318.00000",
+     "Price": "2.40000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-03-19 12:00:00 AM",
+     "Symbol": "NOK",
+     "Quantity": "-2000.00000",
+     "Price": "4.05000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-03-22 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "-100.00000",
+     "Price": "38.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-03-22 12:00:00 AM",
+     "Symbol": "JG",
+     "Quantity": "500.00000",
+     "Price": "5.15000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-03-22 12:00:00 AM",
+     "Symbol": "AAME",
+     "Quantity": "1000.00000",
+     "Price": "5.19000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-03-23 12:00:00 AM",
+     "Symbol": "ALYA",
+     "Quantity": "-2569.00000",
+     "Price": "2.40198521",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-03-23 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "100.00000",
+     "Price": "36.90000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-03-23 12:00:00 AM",
+     "Symbol": "AAME",
+     "Quantity": "1000.00000",
+     "Price": "4.85000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-03-24 12:00:00 AM",
+     "Symbol": "AAME",
+     "Quantity": "500.00000",
+     "Price": "4.80000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-03-24 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "500.00000",
+     "Price": "4.40000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-03-24 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "450.00000",
+     "Price": "33.92222222",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-03-25 12:00:00 AM",
+     "Symbol": "ALYA",
+     "Quantity": "1000.00000",
+     "Price": "2.25000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-03-25 12:00:00 AM",
+     "Symbol": "AAME",
+     "Quantity": "2000.00000",
+     "Price": "4.03000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-03-25 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "500.00000",
+     "Price": "4.23620000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-03-26 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "-500.00000",
+     "Price": "4.50000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-03-26 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "-200.00000",
+     "Price": "32.30047500",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-03-29 12:00:00 AM",
+     "Symbol": "ALYA",
+     "Quantity": "-1000.00000",
+     "Price": "2.55000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-03-29 12:00:00 AM",
+     "Symbol": "AAME",
+     "Quantity": "-500.00000",
+     "Price": "3.52970000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-03-29 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "-500.00000",
+     "Price": "4.40000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-03-29 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "100.00000",
+     "Price": "31.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-03-30 12:00:00 AM",
+     "Symbol": "ALYA",
+     "Quantity": "1000.00000",
+     "Price": "2.55000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-03-30 12:00:00 AM",
+     "Symbol": "AAME",
+     "Quantity": "500.00000",
+     "Price": "3.60000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-03-30 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "-150.00000",
+     "Price": "33.10000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-03-31 12:00:00 AM",
+     "Symbol": "NOK",
+     "Quantity": "-5000.00000",
+     "Price": "3.97500000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-03-31 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "-420.00000",
+     "Price": "36.15952381",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-04-01 12:00:00 AM",
+     "Symbol": "AAME",
+     "Quantity": "-1500.00000",
+     "Price": "4.02806667",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-04-01 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "-1000.00000",
+     "Price": "4.85000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-04-01 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "-50.00000",
+     "Price": "38.50000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-04-05 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "500.00000",
+     "Price": "9.20000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-04-05 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "100.00000",
+     "Price": "36.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-04-06 12:00:00 AM",
+     "Symbol": "JG",
+     "Quantity": "100.00000",
+     "Price": "4.05000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-04-06 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "500.00000",
+     "Price": "8.95000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-04-06 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "-100.00000",
+     "Price": "37.10000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-04-07 12:00:00 AM",
+     "Symbol": "ALYA",
+     "Quantity": "1000.00000",
+     "Price": "2.41000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-04-07 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "500.00000",
+     "Price": "4.45000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-04-07 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "200.00000",
+     "Price": "35.15000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-04-08 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "-300.00000",
+     "Price": "9.54000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-04-09 12:00:00 AM",
+     "Symbol": "AAME",
+     "Quantity": "1000.00000",
+     "Price": "3.85000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-04-09 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "100.00000",
+     "Price": "34.50000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-04-12 12:00:00 AM",
+     "Symbol": "JG",
+     "Quantity": "600.00000",
+     "Price": "3.58000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-04-12 12:00:00 AM",
+     "Symbol": "AAME",
+     "Quantity": "1000.00000",
+     "Price": "3.68000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-04-12 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "100.00000",
+     "Price": "34.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-04-14 12:00:00 AM",
+     "Symbol": "AAME",
+     "Quantity": "-1000.00000",
+     "Price": "3.70000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-04-14 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "320.00000",
+     "Price": "33.50000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-04-15 12:00:00 AM",
+     "Symbol": "ALYA",
+     "Quantity": "1000.00000",
+     "Price": "2.25000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-04-15 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "1000.00000",
+     "Price": "3.44000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-04-16 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "-700.00000",
+     "Price": "9.50000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-04-19 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "500.00000",
+     "Price": "3.20000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-04-20 12:00:00 AM",
+     "Symbol": "AAME",
+     "Quantity": "500.00000",
+     "Price": "3.75000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-04-21 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "500.00000",
+     "Price": "9.50000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-04-22 12:00:00 AM",
+     "Symbol": "AAME",
+     "Quantity": "-1000.00000",
+     "Price": "4.02500000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-04-22 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "-300.00000",
+     "Price": "9.80000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-04-23 12:00:00 AM",
+     "Symbol": "INTC",
+     "Quantity": "200.00000",
+     "Price": "58.60000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-04-23 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "500.00000",
+     "Price": "3.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-04-23 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "-200.00000",
+     "Price": "10.40000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-04-26 12:00:00 AM",
+     "Symbol": "AAME",
+     "Quantity": "-1500.00000",
+     "Price": "4.11666667",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-04-26 12:00:00 AM",
+     "Symbol": "NOK",
+     "Quantity": "500.00000",
+     "Price": "4.21000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-04-27 12:00:00 AM",
+     "Symbol": "GSMG",
+     "Quantity": "500.00000",
+     "Price": "4.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-04-27 12:00:00 AM",
+     "Symbol": "WRI",
+     "Quantity": "50.00000",
+     "Price": "32.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-04-28 12:00:00 AM",
+     "Symbol": "JG",
+     "Quantity": "-1000.00000",
+     "Price": "4.16000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-04-28 12:00:00 AM",
+     "Symbol": "ALYA",
+     "Quantity": "-500.00000",
+     "Price": "2.31000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-04-28 12:00:00 AM",
+     "Symbol": "INTC",
+     "Quantity": "300.00000",
+     "Price": "57.60000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-04-28 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "500.00000",
+     "Price": "3.07000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-04-29 12:00:00 AM",
+     "Symbol": "JG",
+     "Quantity": "500.00000",
+     "Price": "3.70000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-04-29 12:00:00 AM",
+     "Symbol": "GSMG",
+     "Quantity": "-500.00000",
+     "Price": "4.14000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-04-29 12:00:00 AM",
+     "Symbol": "NOK",
+     "Quantity": "-500.00000",
+     "Price": "4.87000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-04-29 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "500.00000",
+     "Price": "3.05000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-04-29 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "500.00000",
+     "Price": "10.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-04-30 12:00:00 AM",
+     "Symbol": "NOK",
+     "Quantity": "-800.00000",
+     "Price": "4.76046250",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-04-30 12:00:00 AM",
+     "Symbol": "WRI",
+     "Quantity": "-50.00000",
+     "Price": "32.10000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-05-03 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "-718.00000",
+     "Price": "3.55000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-05-03 12:00:00 AM",
+     "Symbol": "SKLZ",
+     "Quantity": "200.00000",
+     "Price": "17.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-05-03 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "500.00000",
+     "Price": "9.55000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-05-04 12:00:00 AM",
+     "Symbol": "NOK",
+     "Quantity": "500.00000",
+     "Price": "4.70000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-05-04 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "1000.00000",
+     "Price": "3.09000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-05-04 12:00:00 AM",
+     "Symbol": "SKLZ",
+     "Quantity": "150.00000",
+     "Price": "16.50000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-05-04 12:00:00 AM",
+     "Symbol": "SKLZ",
+     "Quantity": "-200.00000",
+     "Price": "17.50000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-05-05 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "500.00000",
+     "Price": "3.08000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-05-05 12:00:00 AM",
+     "Symbol": "SKLZ",
+     "Quantity": "100.00000",
+     "Price": "15.90000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-05-05 12:00:00 AM",
+     "Symbol": "SKLZ",
+     "Quantity": "-100.00000",
+     "Price": "16.65220000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-05-05 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "200.00000",
+     "Price": "9.37000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-05-06 12:00:00 AM",
+     "Symbol": "JG",
+     "Quantity": "300.00000",
+     "Price": "3.10000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-05-06 12:00:00 AM",
+     "Symbol": "ALYA",
+     "Quantity": "-1000.00000",
+     "Price": "2.32000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-05-06 12:00:00 AM",
+     "Symbol": "AAME",
+     "Quantity": "500.00000",
+     "Price": "3.93000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-05-06 12:00:00 AM",
+     "Symbol": "AAME",
+     "Quantity": "-500.00000",
+     "Price": "4.05070000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-05-06 12:00:00 AM",
+     "Symbol": "NOK",
+     "Quantity": "500.00000",
+     "Price": "4.83000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-05-06 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "1000.00000",
+     "Price": "2.93000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-05-06 12:00:00 AM",
+     "Symbol": "SKLZ",
+     "Quantity": "100.00000",
+     "Price": "15.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-05-06 12:00:00 AM",
+     "Symbol": "SKLZ",
+     "Quantity": "-100.00000",
+     "Price": "15.70000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-05-07 12:00:00 AM",
+     "Symbol": "COUR",
+     "Quantity": "100.00000",
+     "Price": "36.72965000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-05-07 12:00:00 AM",
+     "Symbol": "SKLZ",
+     "Quantity": "-100.00000",
+     "Price": "16.30000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-05-10 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "500.00000",
+     "Price": "2.55000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-05-10 12:00:00 AM",
+     "Symbol": "SKLZ",
+     "Quantity": "150.00000",
+     "Price": "14.80000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-05-10 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "500.00000",
+     "Price": "9.28000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-05-11 12:00:00 AM",
+     "Symbol": "NOK",
+     "Quantity": "-1500.00000",
+     "Price": "4.84000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-05-11 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "110.00000",
+     "Price": "8.70000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-05-12 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "-500.00000",
+     "Price": "2.60000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-05-12 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "400.00000",
+     "Price": "8.37750000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-05-13 12:00:00 AM",
+     "Symbol": "ALYA",
+     "Quantity": "-1000.00000",
+     "Price": "2.30000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-05-14 12:00:00 AM",
+     "Symbol": "COUR",
+     "Quantity": "-50.00000",
+     "Price": "37.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-05-14 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "-500.00000",
+     "Price": "2.40000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-05-14 12:00:00 AM",
+     "Symbol": "SKLZ",
+     "Quantity": "-100.00000",
+     "Price": "15.40000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-05-17 12:00:00 AM",
+     "Symbol": "AAME",
+     "Quantity": "-500.00000",
+     "Price": "4.60000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-05-18 12:00:00 AM",
+     "Symbol": "COUR",
+     "Quantity": "-50.00000",
+     "Price": "38.96120000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-05-18 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "1000.00000",
+     "Price": "2.26000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-05-19 12:00:00 AM",
+     "Symbol": "JG",
+     "Quantity": "-500.00000",
+     "Price": "2.93000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-05-19 12:00:00 AM",
+     "Symbol": "ALYA",
+     "Quantity": "-100.00000",
+     "Price": "2.27000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-05-19 12:00:00 AM",
+     "Symbol": "NOK",
+     "Quantity": "-700.00000",
+     "Price": "4.92000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-05-19 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "500.00000",
+     "Price": "2.12000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-05-19 12:00:00 AM",
+     "Symbol": "IPOF",
+     "Quantity": "200.00000",
+     "Price": "9.96000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-05-19 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "-2210.00000",
+     "Price": "8.46000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-05-19 12:00:00 AM",
+     "Symbol": "AAME",
+     "Quantity": "-1000.00000",
+     "Price": "4.46949000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-05-20 12:00:00 AM",
+     "Symbol": "COUR",
+     "Quantity": "50.00000",
+     "Price": "36.70000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-05-20 12:00:00 AM",
+     "Symbol": "RIDE",
+     "Quantity": "300.00000",
+     "Price": "9.90000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-05-20 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "-1000.00000",
+     "Price": "2.43147500",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-05-24 12:00:00 AM",
+     "Symbol": "INTC",
+     "Quantity": "50.00000",
+     "Price": "57.10000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-05-24 12:00:00 AM",
+     "Symbol": "RIDE",
+     "Quantity": "50.00000",
+     "Price": "9.22000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-05-24 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "1000.00000",
+     "Price": "2.35000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-05-24 12:00:00 AM",
+     "Symbol": "IPOF",
+     "Quantity": "-200.00000",
+     "Price": "10.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-05-25 12:00:00 AM",
+     "Symbol": "RIDE",
+     "Quantity": "-350.00000",
+     "Price": "8.80000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-05-25 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "300.00000",
+     "Price": "9.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-05-26 12:00:00 AM",
+     "Symbol": "MNMD",
+     "Quantity": "1000.00000",
+     "Price": "3.12000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-05-27 12:00:00 AM",
+     "Symbol": "COUR",
+     "Quantity": "-50.00000",
+     "Price": "38.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-05-27 12:00:00 AM",
+     "Symbol": "MNMD",
+     "Quantity": "200.00000",
+     "Price": "3.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-05-27 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "-1000.00000",
+     "Price": "2.50000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-05-28 12:00:00 AM",
+     "Symbol": "MNMD",
+     "Quantity": "-1200.00000",
+     "Price": "3.30000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-05-28 12:00:00 AM",
+     "Symbol": "NOK",
+     "Quantity": "500.00000",
+     "Price": "5.15000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-06-01 12:00:00 AM",
+     "Symbol": "MNMD",
+     "Quantity": "1000.00000",
+     "Price": "3.12000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-06-01 12:00:00 AM",
+     "Symbol": "NOK",
+     "Quantity": "500.00000",
+     "Price": "5.20000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-06-02 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "1000.00000",
+     "Price": "2.52500000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-06-02 12:00:00 AM",
+     "Symbol": "SKLZ",
+     "Quantity": "-100.00000",
+     "Price": "18.28760000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-06-03 12:00:00 AM",
+     "Symbol": "NOK",
+     "Quantity": "-500.00000",
+     "Price": "5.64260000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-06-03 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "1000.00000",
+     "Price": "2.15000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-06-07 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "300.00000",
+     "Price": "9.52690000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-06-07 12:00:00 AM",
+     "Symbol": "ALYA",
+     "Quantity": "-400.00000",
+     "Price": "2.72000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-06-07 12:00:00 AM",
+     "Symbol": "MNMD",
+     "Quantity": "-500.00000",
+     "Price": "3.83000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-06-08 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "-200.00000",
+     "Price": "39.68610000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-06-09 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "-1000.00000",
+     "Price": "2.60000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-06-09 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "100.00000",
+     "Price": "38.50000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-06-10 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "1000.00000",
+     "Price": "2.41500000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-06-11 12:00:00 AM",
+     "Symbol": "MNMD",
+     "Quantity": "-500.00000",
+     "Price": "3.90000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-06-11 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "-6282.00000",
+     "Price": "3.09100287",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-06-11 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "-100.00000",
+     "Price": "40.10000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-06-14 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "-100.00000",
+     "Price": "42.50000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-06-15 12:00:00 AM",
+     "Symbol": "NOK",
+     "Quantity": "500.00000",
+     "Price": "5.40000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-06-15 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "100.00000",
+     "Price": "40.88190000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-06-16 12:00:00 AM",
+     "Symbol": "NOK",
+     "Quantity": "500.00000",
+     "Price": "5.22000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-06-16 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "300.00000",
+     "Price": "9.45000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-06-17 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "-300.00000",
+     "Price": "42.81933333",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-06-17 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "900.00000",
+     "Price": "3.08000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-06-18 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "-100.00000",
+     "Price": "45.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-06-21 12:00:00 AM",
+     "Symbol": "MNMD",
+     "Quantity": "1000.00000",
+     "Price": "3.72800000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-06-22 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "300.00000",
+     "Price": "41.50000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-06-25 12:00:00 AM",
+     "Symbol": "JG",
+     "Quantity": "500.00000",
+     "Price": "3.30000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-06-25 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "-2000.00000",
+     "Price": "3.80000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-06-28 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "500.00000",
+     "Price": "3.75000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-06-28 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "-150.00000",
+     "Price": "44.50000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-06-29 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "-100.00000",
+     "Price": "45.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-06-30 12:00:00 AM",
+     "Symbol": "MNMD",
+     "Quantity": "500.00000",
+     "Price": "3.55000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-06-30 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "100.00000",
+     "Price": "44.69650000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-07-01 12:00:00 AM",
+     "Symbol": "JG",
+     "Quantity": "-500.00000",
+     "Price": "3.60000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-07-01 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "500.00000",
+     "Price": "3.40790000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-07-02 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "200.00000",
+     "Price": "41.90000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-07-06 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "-400.00000",
+     "Price": "9.40000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-07-06 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "100.00000",
+     "Price": "43.30000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-07-06 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "-200.00000",
+     "Price": "44.30000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-07-07 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "250.00000",
+     "Price": "41.60000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-07-07 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "500.00000",
+     "Price": "3.16000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-07-12 12:00:00 AM",
+     "Symbol": "GBS",
+     "Quantity": "1500.00000",
+     "Price": "3.55000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-07-12 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "1500.00000",
+     "Price": "3.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-07-14 12:00:00 AM",
+     "Symbol": "GBS",
+     "Quantity": "-1500.00000",
+     "Price": "4.33666667",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-07-14 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "1000.00000",
+     "Price": "2.75000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-07-14 12:00:00 AM",
+     "Symbol": "UMC",
+     "Quantity": "-500.00000",
+     "Price": "9.85000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-07-14 12:00:00 AM",
+     "Symbol": "AAME",
+     "Quantity": "-59.00000",
+     "Price": "4.38000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-07-15 12:00:00 AM",
+     "Symbol": "GBS",
+     "Quantity": "1000.00000",
+     "Price": "3.50000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-07-15 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "1000.00000",
+     "Price": "2.56000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-07-20 12:00:00 AM",
+     "Symbol": "MNMD",
+     "Quantity": "1000.00000",
+     "Price": "3.13000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-07-20 12:00:00 AM",
+     "Symbol": "NOK",
+     "Quantity": "-500.00000",
+     "Price": "5.80000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-07-20 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "500.00000",
+     "Price": "2.45000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-07-20 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "100.00000",
+     "Price": "40.10060000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-07-21 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "-1000.00000",
+     "Price": "2.65000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-07-21 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "-400.00000",
+     "Price": "44.05000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-07-22 12:00:00 AM",
+     "Symbol": "MNMD",
+     "Quantity": "500.00000",
+     "Price": "3.15000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-07-23 12:00:00 AM",
+     "Symbol": "INTC",
+     "Quantity": "100.00000",
+     "Price": "53.10000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-07-23 12:00:00 AM",
+     "Symbol": "UPC",
+     "Quantity": "1000.00000",
+     "Price": "3.10000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-07-23 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "100.00000",
+     "Price": "41.15000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-07-26 12:00:00 AM",
+     "Symbol": "UPC",
+     "Quantity": "1000.00000",
+     "Price": "2.70883000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-07-27 12:00:00 AM",
+     "Symbol": "NOK",
+     "Quantity": "-500.00000",
+     "Price": "5.76000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-07-27 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "1000.00000",
+     "Price": "2.42000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-07-27 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "300.00000",
+     "Price": "35.87690000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-07-29 12:00:00 AM",
+     "Symbol": "UPC",
+     "Quantity": "1000.00000",
+     "Price": "2.38000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-07-30 12:00:00 AM",
+     "Symbol": "LI",
+     "Quantity": "-100.00000",
+     "Price": "33.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-07-30 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "-100.00000",
+     "Price": "40.23000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-08-02 12:00:00 AM",
+     "Symbol": "LI",
+     "Quantity": "-50.00000",
+     "Price": "35.31270000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-08-02 12:00:00 AM",
+     "Symbol": "NOK",
+     "Quantity": "-500.00000",
+     "Price": "6.08440000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-08-02 12:00:00 AM",
+     "Symbol": "UPC",
+     "Quantity": "-1000.00000",
+     "Price": "2.60000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-08-02 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "-50.00000",
+     "Price": "43.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-08-02 12:00:00 AM",
+     "Symbol": "AAME",
+     "Quantity": "-441.00000",
+     "Price": "4.19000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-08-03 12:00:00 AM",
+     "Symbol": "LI",
+     "Quantity": "100.00000",
+     "Price": "31.70000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-08-03 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "1000.00000",
+     "Price": "1.99000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-08-04 12:00:00 AM",
+     "Symbol": "UPC",
+     "Quantity": "-1000.00000",
+     "Price": "2.85000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-08-06 12:00:00 AM",
+     "Symbol": "INTC",
+     "Quantity": "-100.00000",
+     "Price": "53.99230000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-08-06 12:00:00 AM",
+     "Symbol": "LI",
+     "Quantity": "50.00000",
+     "Price": "30.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-08-06 12:00:00 AM",
+     "Symbol": "SKLZ",
+     "Quantity": "400.00000",
+     "Price": "12.05870000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-08-06 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "80.00000",
+     "Price": "41.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-08-09 12:00:00 AM",
+     "Symbol": "BILI",
+     "Quantity": "-50.00000",
+     "Price": "82.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-08-09 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "1000.00000",
+     "Price": "1.93000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-08-10 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "1000.00000",
+     "Price": "1.76000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-08-11 12:00:00 AM",
+     "Symbol": "ENDP",
+     "Quantity": "1000.00000",
+     "Price": "3.88000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-08-12 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "30.00000",
+     "Price": "40.17740000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-08-13 12:00:00 AM",
+     "Symbol": "BILI",
+     "Quantity": "50.00000",
+     "Price": "76.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-08-13 12:00:00 AM",
+     "Symbol": "MNMD",
+     "Quantity": "500.00000",
+     "Price": "3.08000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-08-13 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "40.00000",
+     "Price": "39.50000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-08-17 12:00:00 AM",
+     "Symbol": "ENDP",
+     "Quantity": "500.00000",
+     "Price": "3.74830000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-08-17 12:00:00 AM",
+     "Symbol": "INTC",
+     "Quantity": "-150.00000",
+     "Price": "52.70000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-08-17 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "1000.00000",
+     "Price": "1.56960000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-08-18 12:00:00 AM",
+     "Symbol": "ENDP",
+     "Quantity": "500.00000",
+     "Price": "3.80000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-08-18 12:00:00 AM",
+     "Symbol": "INTC",
+     "Quantity": "-400.00000",
+     "Price": "52.73000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-08-18 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "1000.00000",
+     "Price": "1.65000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-08-19 12:00:00 AM",
+     "Symbol": "ENDP",
+     "Quantity": "500.00000",
+     "Price": "3.56760000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-08-19 12:00:00 AM",
+     "Symbol": "GBS",
+     "Quantity": "500.00000",
+     "Price": "2.80610000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-08-19 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "500.00000",
+     "Price": "1.57680000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-08-19 12:00:00 AM",
+     "Symbol": "UPC",
+     "Quantity": "500.00000",
+     "Price": "2.40540000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-08-20 12:00:00 AM",
+     "Symbol": "MNMD",
+     "Quantity": "-2500.00000",
+     "Price": "2.65000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-08-20 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "4800.00000",
+     "Price": "0.71000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-08-20 12:00:00 AM",
+     "Symbol": "SKLZ",
+     "Quantity": "-400.00000",
+     "Price": "10.35000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-08-20 12:00:00 AM",
+     "Symbol": "UPC",
+     "Quantity": "-1500.00000",
+     "Price": "2.41000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-08-23 12:00:00 AM",
+     "Symbol": "GBS",
+     "Quantity": "-1500.00000",
+     "Price": "2.86050000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-08-23 12:00:00 AM",
+     "Symbol": "MNMD",
+     "Quantity": "-1000.00000",
+     "Price": "2.80000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-08-26 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "1000.00000",
+     "Price": "0.76000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-08-31 12:00:00 AM",
+     "Symbol": "JG",
+     "Quantity": "-500.00000",
+     "Price": "2.05000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-08-31 12:00:00 AM",
+     "Symbol": "ENDP",
+     "Quantity": "-500.00000",
+     "Price": "2.25220000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-08-31 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "-3000.00000",
+     "Price": "0.85000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-09-01 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "3000.00000",
+     "Price": "0.93986667",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-09-02 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "1000.00000",
+     "Price": "0.93590000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-09-02 12:00:00 AM",
+     "Symbol": "MNMD",
+     "Quantity": "500.00000",
+     "Price": "2.91000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-09-03 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "1000.00000",
+     "Price": "1.20000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-09-07 12:00:00 AM",
+     "Symbol": "JG",
+     "Quantity": "-500.00000",
+     "Price": "2.32000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-09-07 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "1000.00000",
+     "Price": "1.08000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-09-08 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "1000.00000",
+     "Price": "0.98000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-09-09 12:00:00 AM",
+     "Symbol": "JG",
+     "Quantity": "-500.00000",
+     "Price": "2.13000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-09-09 12:00:00 AM",
+     "Symbol": "ENDP",
+     "Quantity": "-500.00000",
+     "Price": "2.12000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-09-10 12:00:00 AM",
+     "Symbol": "ENDP",
+     "Quantity": "-300.00000",
+     "Price": "3.25000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-09-10 12:00:00 AM",
+     "Symbol": "MNMD",
+     "Quantity": "400.00000",
+     "Price": "2.52000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-09-15 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "1000.00000",
+     "Price": "0.98000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-09-16 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "1000.00000",
+     "Price": "0.96960000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-09-17 12:00:00 AM",
+     "Symbol": "JG",
+     "Quantity": "-1000.00000",
+     "Price": "1.87200000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-09-20 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "800.00000",
+     "Price": "0.97500000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-09-21 12:00:00 AM",
+     "Symbol": "ENDP",
+     "Quantity": "-200.00000",
+     "Price": "2.72000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-09-30 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "-4500.00000",
+     "Price": "1.49777778",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-10-01 12:00:00 AM",
+     "Symbol": "DOGZ",
+     "Quantity": "1000.00000",
+     "Price": "2.94000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-10-01 12:00:00 AM",
+     "Symbol": "ENDP",
+     "Quantity": "500.00000",
+     "Price": "3.30000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-10-01 12:00:00 AM",
+     "Symbol": "MNMD",
+     "Quantity": "381.00000",
+     "Price": "2.33000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-10-01 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "-7500.00000",
+     "Price": "1.94333333",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-10-01 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "-6000.00000",
+     "Price": "1.81225000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-10-04 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "-1000.00000",
+     "Price": "2.10000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-10-05 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "-5000.00000",
+     "Price": "1.26456000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-10-05 12:00:00 AM",
+     "Symbol": "AREC",
+     "Quantity": "1500.00000",
+     "Price": "2.07606667",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-10-06 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "-600.00000",
+     "Price": "1.51150000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-10-07 12:00:00 AM",
+     "Symbol": "DOGZ",
+     "Quantity": "-500.00000",
+     "Price": "3.21000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-10-07 12:00:00 AM",
+     "Symbol": "AREC",
+     "Quantity": "200.00000",
+     "Price": "1.93000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-10-08 12:00:00 AM",
+     "Symbol": "ENDP",
+     "Quantity": "-500.00000",
+     "Price": "3.90000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-10-08 12:00:00 AM",
+     "Symbol": "SKLZ",
+     "Quantity": "200.00000",
+     "Price": "8.45000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-10-12 12:00:00 AM",
+     "Symbol": "MITQ",
+     "Quantity": "500.00000",
+     "Price": "2.82000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-10-12 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "-800.00000",
+     "Price": "2.35000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-10-12 12:00:00 AM",
+     "Symbol": "SKLZ",
+     "Quantity": "200.00000",
+     "Price": "8.25000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-10-13 12:00:00 AM",
+     "Symbol": "DOGZ",
+     "Quantity": "-500.00000",
+     "Price": "3.24000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-10-13 12:00:00 AM",
+     "Symbol": "ENDP",
+     "Quantity": "-300.00000",
+     "Price": "4.18000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-10-13 12:00:00 AM",
+     "Symbol": "MITQ",
+     "Quantity": "-500.00000",
+     "Price": "3.10000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-10-13 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "-300.00000",
+     "Price": "2.40000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-10-13 12:00:00 AM",
+     "Symbol": "SKLZ",
+     "Quantity": "-200.00000",
+     "Price": "9.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-10-13 12:00:00 AM",
+     "Symbol": "STG",
+     "Quantity": "400.00000",
+     "Price": "4.88000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-10-13 12:00:00 AM",
+     "Symbol": "AREC",
+     "Quantity": "500.00000",
+     "Price": "2.20000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-10-13 12:00:00 AM",
+     "Symbol": "MNMD",
+     "Quantity": "500.00000",
+     "Price": "2.30000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-10-14 12:00:00 AM",
+     "Symbol": "ALF",
+     "Quantity": "400.00000",
+     "Price": "6.18000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-10-15 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "-400.00000",
+     "Price": "2.10000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-10-15 12:00:00 AM",
+     "Symbol": "AREC",
+     "Quantity": "-1000.00000",
+     "Price": "2.60000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-10-15 12:00:00 AM",
+     "Symbol": "ALF",
+     "Quantity": "300.00000",
+     "Price": "6.30000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-10-18 12:00:00 AM",
+     "Symbol": "GREE",
+     "Quantity": "100.00000",
+     "Price": "24.80000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-10-18 12:00:00 AM",
+     "Symbol": "PROG",
+     "Quantity": "-500.00000",
+     "Price": "2.70000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-10-18 12:00:00 AM",
+     "Symbol": "ALF",
+     "Quantity": "200.00000",
+     "Price": "5.94000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-10-18 12:00:00 AM",
+     "Symbol": "MNMD",
+     "Quantity": "-800.00000",
+     "Price": "2.35000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-10-18 12:00:00 AM",
+     "Symbol": "VYGR",
+     "Quantity": "170.00000",
+     "Price": "4.26000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-10-19 12:00:00 AM",
+     "Symbol": "USWS",
+     "Quantity": "1000.00000",
+     "Price": "2.98000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-10-20 12:00:00 AM",
+     "Symbol": "AVIR",
+     "Quantity": "100.00000",
+     "Price": "13.03830000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-10-20 12:00:00 AM",
+     "Symbol": "NAOV",
+     "Quantity": "1000.00000",
+     "Price": "1.71910000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-10-20 12:00:00 AM",
+     "Symbol": "ALF",
+     "Quantity": "300.00000",
+     "Price": "5.84000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-10-21 12:00:00 AM",
+     "Symbol": "AVIR",
+     "Quantity": "200.00000",
+     "Price": "12.50000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-10-21 12:00:00 AM",
+     "Symbol": "ALF",
+     "Quantity": "200.00000",
+     "Price": "5.82000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-10-21 12:00:00 AM",
+     "Symbol": "ENDP",
+     "Quantity": "-200.00000",
+     "Price": "4.50000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-10-21 12:00:00 AM",
+     "Symbol": "GREE",
+     "Quantity": "50.00000",
+     "Price": "22.40000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-10-21 12:00:00 AM",
+     "Symbol": "MNMD",
+     "Quantity": "-381.00000",
+     "Price": "2.45000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-10-21 12:00:00 AM",
+     "Symbol": "SKLZ",
+     "Quantity": "-200.00000",
+     "Price": "10.10000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-10-21 12:00:00 AM",
+     "Symbol": "USWS",
+     "Quantity": "500.00000",
+     "Price": "2.95000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-10-21 12:00:00 AM",
+     "Symbol": "AREC",
+     "Quantity": "500.00000",
+     "Price": "2.50000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-10-21 12:00:00 AM",
+     "Symbol": "VYGR",
+     "Quantity": "180.00000",
+     "Price": "4.10000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-10-22 12:00:00 AM",
+     "Symbol": "ALF",
+     "Quantity": "100.00000",
+     "Price": "5.45000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-10-22 12:00:00 AM",
+     "Symbol": "GREE",
+     "Quantity": "50.00000",
+     "Price": "21.15080000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-10-22 12:00:00 AM",
+     "Symbol": "NAOV",
+     "Quantity": "400.00000",
+     "Price": "1.50000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-10-22 12:00:00 AM",
+     "Symbol": "SNTG",
+     "Quantity": "500.00000",
+     "Price": "2.45000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-10-22 12:00:00 AM",
+     "Symbol": "USWS",
+     "Quantity": "300.00000",
+     "Price": "2.60000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-10-25 12:00:00 AM",
+     "Symbol": "AREC",
+     "Quantity": "1000.00000",
+     "Price": "2.52000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-10-25 12:00:00 AM",
+     "Symbol": "ENDP",
+     "Quantity": "-500.00000",
+     "Price": "4.65000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-10-25 12:00:00 AM",
+     "Symbol": "TRVI",
+     "Quantity": "1000.00000",
+     "Price": "1.26000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-10-25 12:00:00 AM",
+     "Symbol": "VYGR",
+     "Quantity": "500.00000",
+     "Price": "3.74800000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-10-26 12:00:00 AM",
+     "Symbol": "AREC",
+     "Quantity": "500.00000",
+     "Price": "2.45000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-10-26 12:00:00 AM",
+     "Symbol": "GREE",
+     "Quantity": "-100.00000",
+     "Price": "22.70000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-10-26 12:00:00 AM",
+     "Symbol": "NAOV",
+     "Quantity": "500.00000",
+     "Price": "1.45000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-10-26 12:00:00 AM",
+     "Symbol": "TRVI",
+     "Quantity": "500.00000",
+     "Price": "1.25000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-10-26 12:00:00 AM",
+     "Symbol": "VYGR",
+     "Quantity": "400.00000",
+     "Price": "3.65000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-10-26 12:00:00 AM",
+     "Symbol": "MNMD",
+     "Quantity": "-600.00000",
+     "Price": "2.45000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-10-27 12:00:00 AM",
+     "Symbol": "AREC",
+     "Quantity": "500.00000",
+     "Price": "2.40000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-10-27 12:00:00 AM",
+     "Symbol": "ALF",
+     "Quantity": "200.00000",
+     "Price": "5.49560000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-10-27 12:00:00 AM",
+     "Symbol": "GREE",
+     "Quantity": "50.00000",
+     "Price": "20.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-10-27 12:00:00 AM",
+     "Symbol": "STG",
+     "Quantity": "-100.00000",
+     "Price": "5.08000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-10-27 12:00:00 AM",
+     "Symbol": "TRVI",
+     "Quantity": "1000.00000",
+     "Price": "1.18000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-10-28 12:00:00 AM",
+     "Symbol": "AREC",
+     "Quantity": "500.00000",
+     "Price": "2.24000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-10-28 12:00:00 AM",
+     "Symbol": "AREC",
+     "Quantity": "-500.00000",
+     "Price": "2.42000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-10-28 12:00:00 AM",
+     "Symbol": "AUUD",
+     "Quantity": "1000.00000",
+     "Price": "2.70000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-10-28 12:00:00 AM",
+     "Symbol": "AUUD",
+     "Quantity": "-500.00000",
+     "Price": "3.30000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-10-28 12:00:00 AM",
+     "Symbol": "HUDI",
+     "Quantity": "-50.00000",
+     "Price": "27.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-10-28 12:00:00 AM",
+     "Symbol": "ALF",
+     "Quantity": "-500.00000",
+     "Price": "5.70000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-10-29 12:00:00 AM",
+     "Symbol": "ALF",
+     "Quantity": "300.00000",
+     "Price": "4.50000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-10-29 12:00:00 AM",
+     "Symbol": "GREE",
+     "Quantity": "-80.00000",
+     "Price": "23.45996250",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-10-29 12:00:00 AM",
+     "Symbol": "HUDI",
+     "Quantity": "50.00000",
+     "Price": "18.43000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-11-01 12:00:00 AM",
+     "Symbol": "AUUD",
+     "Quantity": "1000.00000",
+     "Price": "2.72783000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-11-01 12:00:00 AM",
+     "Symbol": "GREE",
+     "Quantity": "-20.00000",
+     "Price": "27.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-11-01 12:00:00 AM",
+     "Symbol": "NIO",
+     "Quantity": "-50.00000",
+     "Price": "40.75000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-11-01 12:00:00 AM",
+     "Symbol": "SNTG",
+     "Quantity": "1000.00000",
+     "Price": "2.25000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-11-02 12:00:00 AM",
+     "Symbol": "AUUD",
+     "Quantity": "1000.00000",
+     "Price": "2.58000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-11-02 12:00:00 AM",
+     "Symbol": "STG",
+     "Quantity": "-1.00000",
+     "Price": "4.98000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-11-02 12:00:00 AM",
+     "Symbol": "TRVI",
+     "Quantity": "-300.00000",
+     "Price": "1.23000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-11-02 12:00:00 AM",
+     "Symbol": "USWS",
+     "Quantity": "1000.00000",
+     "Price": "2.48000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-11-02 12:00:00 AM",
+     "Symbol": "ALZN",
+     "Quantity": "1000.00000",
+     "Price": "2.22000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-11-03 12:00:00 AM",
+     "Symbol": "STG",
+     "Quantity": "-299.00000",
+     "Price": "4.88000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-11-03 12:00:00 AM",
+     "Symbol": "VYGR",
+     "Quantity": "-300.00000",
+     "Price": "4.05000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-11-03 12:00:00 AM",
+     "Symbol": "ABVC",
+     "Quantity": "400.00000",
+     "Price": "4.27000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-11-05 12:00:00 AM",
+     "Symbol": "AVIR",
+     "Quantity": "110.00000",
+     "Price": "10.61818182",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-11-05 12:00:00 AM",
+     "Symbol": "ALF",
+     "Quantity": "-500.00000",
+     "Price": "5.22000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-11-05 12:00:00 AM",
+     "Symbol": "ABVC",
+     "Quantity": "500.00000",
+     "Price": "3.70000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-11-05 12:00:00 AM",
+     "Symbol": "BITF",
+     "Quantity": "-500.00000",
+     "Price": "7.30000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-11-05 12:00:00 AM",
+     "Symbol": "ALZN",
+     "Quantity": "-700.00000",
+     "Price": "2.81080000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-11-08 12:00:00 AM",
+     "Symbol": "BITF",
+     "Quantity": "-300.00000",
+     "Price": "8.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-11-08 12:00:00 AM",
+     "Symbol": "GREE",
+     "Quantity": "-50.00000",
+     "Price": "28.59100000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-11-08 12:00:00 AM",
+     "Symbol": "ALZN",
+     "Quantity": "500.00000",
+     "Price": "2.50000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-11-09 12:00:00 AM",
+     "Symbol": "BITF",
+     "Quantity": "-300.00000",
+     "Price": "8.80000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-11-09 12:00:00 AM",
+     "Symbol": "TRVI",
+     "Quantity": "-1200.00000",
+     "Price": "1.20000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-11-10 12:00:00 AM",
+     "Symbol": "ALZN",
+     "Quantity": "500.00000",
+     "Price": "2.38870000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-11-10 12:00:00 AM",
+     "Symbol": "NIO",
+     "Quantity": "20.00000",
+     "Price": "40.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-11-11 12:00:00 AM",
+     "Symbol": "ABVC",
+     "Quantity": "1000.00000",
+     "Price": "3.38497000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-11-11 12:00:00 AM",
+     "Symbol": "BITF",
+     "Quantity": "500.00000",
+     "Price": "8.08000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-11-11 12:00:00 AM",
+     "Symbol": "SNTG",
+     "Quantity": "-1500.00000",
+     "Price": "2.04000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-11-11 12:00:00 AM",
+     "Symbol": "TRVI",
+     "Quantity": "-1000.00000",
+     "Price": "1.22000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-11-12 12:00:00 AM",
+     "Symbol": "USWS",
+     "Quantity": "500.00000",
+     "Price": "2.10000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-11-15 12:00:00 AM",
+     "Symbol": "ALF",
+     "Quantity": "400.00000",
+     "Price": "4.79000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-11-15 12:00:00 AM",
+     "Symbol": "ABVC",
+     "Quantity": "500.00000",
+     "Price": "3.30000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-11-15 12:00:00 AM",
+     "Symbol": "ABVC",
+     "Quantity": "-500.00000",
+     "Price": "3.63320000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-11-15 12:00:00 AM",
+     "Symbol": "NIO",
+     "Quantity": "100.00000",
+     "Price": "40.68000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-11-15 12:00:00 AM",
+     "Symbol": "NIO",
+     "Quantity": "30.00000",
+     "Price": "40.46900000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-11-15 12:00:00 AM",
+     "Symbol": "USWS",
+     "Quantity": "500.00000",
+     "Price": "2.03000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-11-16 12:00:00 AM",
+     "Symbol": "AREC",
+     "Quantity": "600.00000",
+     "Price": "2.17741667",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-11-16 12:00:00 AM",
+     "Symbol": "ABVC",
+     "Quantity": "500.00000",
+     "Price": "3.40000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-11-16 12:00:00 AM",
+     "Symbol": "BITF",
+     "Quantity": "-300.00000",
+     "Price": "8.20090000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-11-18 12:00:00 AM",
+     "Symbol": "BITF",
+     "Quantity": "900.00000",
+     "Price": "7.89970000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-11-19 12:00:00 AM",
+     "Symbol": "AREC",
+     "Quantity": "500.00000",
+     "Price": "1.96900000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-11-19 12:00:00 AM",
+     "Symbol": "USWS",
+     "Quantity": "500.00000",
+     "Price": "1.65890000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-11-22 12:00:00 AM",
+     "Symbol": "NIO",
+     "Quantity": "-50.00000",
+     "Price": "41.77060000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-11-23 12:00:00 AM",
+     "Symbol": "ALZN",
+     "Quantity": "-500.00000",
+     "Price": "2.24120000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-11-24 12:00:00 AM",
+     "Symbol": "ALF",
+     "Quantity": "200.00000",
+     "Price": "4.35000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-11-24 12:00:00 AM",
+     "Symbol": "USWS",
+     "Quantity": "-500.00000",
+     "Price": "1.90000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-11-30 12:00:00 AM",
+     "Symbol": "USWS",
+     "Quantity": "500.00000",
+     "Price": "1.71000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-12-01 12:00:00 AM",
+     "Symbol": "AREC",
+     "Quantity": "500.00000",
+     "Price": "1.84000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-12-07 12:00:00 AM",
+     "Symbol": "ALZN",
+     "Quantity": "-200.00000",
+     "Price": "2.16000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-12-08 12:00:00 AM",
+     "Symbol": "ABVC",
+     "Quantity": "-100.00000",
+     "Price": "3.30000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-12-08 12:00:00 AM",
+     "Symbol": "ALZN",
+     "Quantity": "-200.00000",
+     "Price": "2.25000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-12-09 12:00:00 AM",
+     "Symbol": "AUUD",
+     "Quantity": "500.00000",
+     "Price": "2.03920000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-12-09 12:00:00 AM",
+     "Symbol": "ABVC",
+     "Quantity": "-700.00000",
+     "Price": "3.40000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-12-09 12:00:00 AM",
+     "Symbol": "NAOV",
+     "Quantity": "1000.00000",
+     "Price": "1.18880000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-12-10 12:00:00 AM",
+     "Symbol": "ABVC",
+     "Quantity": "-600.00000",
+     "Price": "4.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-12-13 12:00:00 AM",
+     "Symbol": "ALZN",
+     "Quantity": "-400.00000",
+     "Price": "2.45000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-12-14 12:00:00 AM",
+     "Symbol": "USWS",
+     "Quantity": "700.00000",
+     "Price": "1.40000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2021-12-22 12:00:00 AM",
+     "Symbol": "ABVC",
+     "Quantity": "-600.00000",
+     "Price": "3.92440000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-12-27 12:00:00 AM",
+     "Symbol": "AREC",
+     "Quantity": "500.00000",
+     "Price": "1.91000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-12-30 12:00:00 AM",
+     "Symbol": "AVIR",
+     "Quantity": "-110.00000",
+     "Price": "9.15000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2021-12-30 12:00:00 AM",
+     "Symbol": "YGMZ",
+     "Quantity": "209.00000",
+     "Price": "1.92000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-01-03 12:00:00 AM",
+     "Symbol": "AREC",
+     "Quantity": "-1100.00000",
+     "Price": "1.99100000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-01-03 12:00:00 AM",
+     "Symbol": "YGMZ",
+     "Quantity": "500.00000",
+     "Price": "1.96000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-01-03 12:00:00 AM",
+     "Symbol": "NIO",
+     "Quantity": "-20.00000",
+     "Price": "33.50000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-01-03 12:00:00 AM",
+     "Symbol": "USWS",
+     "Quantity": "-1300.00000",
+     "Price": "1.27050000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-01-04 12:00:00 AM",
+     "Symbol": "VYGR",
+     "Quantity": "300.00000",
+     "Price": "2.80000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-01-04 12:00:00 AM",
+     "Symbol": "ABVC",
+     "Quantity": "-200.00000",
+     "Price": "3.65000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2022-01-06 12:00:00 AM",
+     "Symbol": "YGMZ",
+     "Quantity": "500.00000",
+     "Price": "1.75000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-01-07 12:00:00 AM",
+     "Symbol": "AVIR",
+     "Quantity": "-200.00000",
+     "Price": "7.67270000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-01-11 12:00:00 AM",
+     "Symbol": "AREC",
+     "Quantity": "-102.00000",
+     "Price": "2.03000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-01-11 12:00:00 AM",
+     "Symbol": "AUUD",
+     "Quantity": "-500.00000",
+     "Price": "1.88050000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-01-12 12:00:00 AM",
+     "Symbol": "AREC",
+     "Quantity": "-2000.00000",
+     "Price": "2.16535000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-01-12 12:00:00 AM",
+     "Symbol": "VYGR",
+     "Quantity": "-300.00000",
+     "Price": "3.16990000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-01-13 12:00:00 AM",
+     "Symbol": "AUUD",
+     "Quantity": "500.00000",
+     "Price": "1.81000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-01-13 12:00:00 AM",
+     "Symbol": "USWS",
+     "Quantity": "600.00000",
+     "Price": "1.28000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2022-01-18 12:00:00 AM",
+     "Symbol": "AREC",
+     "Quantity": "-898.00000",
+     "Price": "2.21000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-01-18 12:00:00 AM",
+     "Symbol": "ALF",
+     "Quantity": "300.00000",
+     "Price": "1.90000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-01-18 12:00:00 AM",
+     "Symbol": "USWS",
+     "Quantity": "500.00000",
+     "Price": "1.27000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-01-19 12:00:00 AM",
+     "Symbol": "USWS",
+     "Quantity": "1000.00000",
+     "Price": "1.23000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-01-20 12:00:00 AM",
+     "Symbol": "AVIR",
+     "Quantity": "-50.00000",
+     "Price": "7.26120000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-01-20 12:00:00 AM",
+     "Symbol": "YGMZ",
+     "Quantity": "500.00000",
+     "Price": "1.53000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-01-20 12:00:00 AM",
+     "Symbol": "NAOV",
+     "Quantity": "-1000.00000",
+     "Price": "0.96000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-01-20 12:00:00 AM",
+     "Symbol": "NIO",
+     "Quantity": "-15.00000",
+     "Price": "30.45500000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-01-20 12:00:00 AM",
+     "Symbol": "USWS",
+     "Quantity": "1000.00000",
+     "Price": "1.13000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-01-20 12:00:00 AM",
+     "Symbol": "VYGR",
+     "Quantity": "-300.00000",
+     "Price": "2.91300000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-01-21 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "40.00000",
+     "Price": "42.40000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2022-01-24 12:00:00 AM",
+     "Symbol": "NAOV",
+     "Quantity": "500.00000",
+     "Price": "0.83000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-01-24 12:00:00 AM",
+     "Symbol": "NIO",
+     "Quantity": "15.00000",
+     "Price": "23.80000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-01-26 12:00:00 AM",
+     "Symbol": "ALF",
+     "Quantity": "300.00000",
+     "Price": "1.73000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-01-26 12:00:00 AM",
+     "Symbol": "ABVC",
+     "Quantity": "200.00000",
+     "Price": "2.63000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-01-26 12:00:00 AM",
+     "Symbol": "GFAI",
+     "Quantity": "500.00000",
+     "Price": "0.91000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-01-26 12:00:00 AM",
+     "Symbol": "YGMZ",
+     "Quantity": "300.00000",
+     "Price": "1.41000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-01-27 12:00:00 AM",
+     "Symbol": "INTC",
+     "Quantity": "10.00000",
+     "Price": "48.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-02-03 12:00:00 AM",
+     "Symbol": "ALF",
+     "Quantity": "300.00000",
+     "Price": "1.65000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-02-03 12:00:00 AM",
+     "Symbol": "NIO",
+     "Quantity": "-15.00000",
+     "Price": "24.50000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-02-03 12:00:00 AM",
+     "Symbol": "VYGR",
+     "Quantity": "-300.00000",
+     "Price": "2.95000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-02-03 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "-20.00000",
+     "Price": "36.50000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2022-02-04 12:00:00 AM",
+     "Symbol": "VYGR",
+     "Quantity": "-150.00000",
+     "Price": "3.20000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2022-02-07 12:00:00 AM",
+     "Symbol": "GFAI",
+     "Quantity": "800.00000",
+     "Price": "0.67000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-02-08 12:00:00 AM",
+     "Symbol": "YGMZ",
+     "Quantity": "-500.00000",
+     "Price": "1.52250000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-02-08 12:00:00 AM",
+     "Symbol": "VYGR",
+     "Quantity": "50.00000",
+     "Price": "3.28190000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2022-02-09 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "-10.00000",
+     "Price": "41.26090000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2022-02-10 12:00:00 AM",
+     "Symbol": "AUUD",
+     "Quantity": "-500.00000",
+     "Price": "2.13170000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-02-10 12:00:00 AM",
+     "Symbol": "YGMZ",
+     "Quantity": "-509.00000",
+     "Price": "1.71400000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-02-11 12:00:00 AM",
+     "Symbol": "AUUD",
+     "Quantity": "-500.00000",
+     "Price": "2.14080000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-02-11 12:00:00 AM",
+     "Symbol": "ALF",
+     "Quantity": "-500.00000",
+     "Price": "1.74360000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-02-11 12:00:00 AM",
+     "Symbol": "YGMZ",
+     "Quantity": "-500.00000",
+     "Price": "1.77370000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-02-14 12:00:00 AM",
+     "Symbol": "VYGR",
+     "Quantity": "-250.00000",
+     "Price": "3.65140000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2022-02-15 12:00:00 AM",
+     "Symbol": "GFAI",
+     "Quantity": "600.00000",
+     "Price": "0.50000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-02-15 12:00:00 AM",
+     "Symbol": "USWS",
+     "Quantity": "500.00000",
+     "Price": "0.90000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-02-16 12:00:00 AM",
+     "Symbol": "AUUD",
+     "Quantity": "300.00000",
+     "Price": "1.80000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-02-16 12:00:00 AM",
+     "Symbol": "YGMZ",
+     "Quantity": "-500.00000",
+     "Price": "1.76510000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-02-16 12:00:00 AM",
+     "Symbol": "AREC",
+     "Quantity": "-700.00000",
+     "Price": "2.10000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2022-02-17 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "-10.00000",
+     "Price": "40.19180000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2022-02-18 12:00:00 AM",
+     "Symbol": "GFAI",
+     "Quantity": "1000.00000",
+     "Price": "0.43500000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-02-18 12:00:00 AM",
+     "Symbol": "USWS",
+     "Quantity": "500.00000",
+     "Price": "0.89000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-02-22 12:00:00 AM",
+     "Symbol": "GFAI",
+     "Quantity": "-1000.00000",
+     "Price": "0.49604000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-02-23 12:00:00 AM",
+     "Symbol": "GFAI",
+     "Quantity": "500.00000",
+     "Price": "0.39000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-02-23 12:00:00 AM",
+     "Symbol": "AREC",
+     "Quantity": "300.00000",
+     "Price": "1.96890000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2022-02-23 12:00:00 AM",
+     "Symbol": "MTEK",
+     "Quantity": "1000.00000",
+     "Price": "1.84930000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2022-02-24 12:00:00 AM",
+     "Symbol": "LI",
+     "Quantity": "-50.00000",
+     "Price": "25.54000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-02-24 12:00:00 AM",
+     "Symbol": "USWS",
+     "Quantity": "-6000.00000",
+     "Price": "1.18759167",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-02-24 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "-40.00000",
+     "Price": "32.35000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-02-25 12:00:00 AM",
+     "Symbol": "ALF",
+     "Quantity": "300.00000",
+     "Price": "1.55000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-02-25 12:00:00 AM",
+     "Symbol": "ALF",
+     "Quantity": "-900.00000",
+     "Price": "1.95000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-02-25 12:00:00 AM",
+     "Symbol": "GFAI",
+     "Quantity": "-1700.00000",
+     "Price": "0.52117647",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-02-25 12:00:00 AM",
+     "Symbol": "NAOV",
+     "Quantity": "1000.00000",
+     "Price": "0.72000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-02-25 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "-20.00000",
+     "Price": "35.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-02-25 12:00:00 AM",
+     "Symbol": "MTEK",
+     "Quantity": "300.00000",
+     "Price": "1.57000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2022-02-28 12:00:00 AM",
+     "Symbol": "NIO",
+     "Quantity": "-15.00000",
+     "Price": "22.20000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-02-28 12:00:00 AM",
+     "Symbol": "MTEK",
+     "Quantity": "300.00000",
+     "Price": "1.65000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2022-03-01 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "200.00000",
+     "Price": "34.05385000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-01 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "-200.00000",
+     "Price": "35.65000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-02 12:00:00 AM",
+     "Symbol": "ALF",
+     "Quantity": "300.00000",
+     "Price": "1.85000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-02 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "30.00000",
+     "Price": "33.96740000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-02 12:00:00 AM",
+     "Symbol": "AREC",
+     "Quantity": "-700.00000",
+     "Price": "2.10000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2022-03-03 12:00:00 AM",
+     "Symbol": "USWS",
+     "Quantity": "-500.00000",
+     "Price": "1.50000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-03 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "30.00000",
+     "Price": "33.03900000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-03 12:00:00 AM",
+     "Symbol": "AREC",
+     "Quantity": "400.00000",
+     "Price": "2.22910000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2022-03-03 12:00:00 AM",
+     "Symbol": "AREC",
+     "Quantity": "-600.00000",
+     "Price": "2.26000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2022-03-04 12:00:00 AM",
+     "Symbol": "MTEK",
+     "Quantity": "300.00000",
+     "Price": "1.58000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2022-03-07 12:00:00 AM",
+     "Symbol": "ALF",
+     "Quantity": "500.00000",
+     "Price": "1.75000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-07 12:00:00 AM",
+     "Symbol": "GFAI",
+     "Quantity": "500.00000",
+     "Price": "0.44000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-07 12:00:00 AM",
+     "Symbol": "NAOV",
+     "Quantity": "1000.00000",
+     "Price": "0.75000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-07 12:00:00 AM",
+     "Symbol": "USWS",
+     "Quantity": "-500.00000",
+     "Price": "2.00000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2022-03-08 12:00:00 AM",
+     "Symbol": "MTEK",
+     "Quantity": "-400.00000",
+     "Price": "1.72000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2022-03-08 12:00:00 AM",
+     "Symbol": "USWS",
+     "Quantity": "-500.00000",
+     "Price": "3.74000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2022-03-09 12:00:00 AM",
+     "Symbol": "ABVC",
+     "Quantity": "500.00000",
+     "Price": "2.26930000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-09 12:00:00 AM",
+     "Symbol": "ABVC",
+     "Quantity": "-300.00000",
+     "Price": "2.80000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-09 12:00:00 AM",
+     "Symbol": "LI",
+     "Quantity": "-50.00000",
+     "Price": "27.30000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-09 12:00:00 AM",
+     "Symbol": "NAOV",
+     "Quantity": "-1000.00000",
+     "Price": "0.78000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-10 12:00:00 AM",
+     "Symbol": "AVIR",
+     "Quantity": "-50.00000",
+     "Price": "6.22100000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-10 12:00:00 AM",
+     "Symbol": "ABVC",
+     "Quantity": "400.00000",
+     "Price": "2.67670000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-10 12:00:00 AM",
+     "Symbol": "GFAI",
+     "Quantity": "1000.00000",
+     "Price": "0.54000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-10 12:00:00 AM",
+     "Symbol": "INTC",
+     "Quantity": "40.00000",
+     "Price": "46.42830000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-10 12:00:00 AM",
+     "Symbol": "NAOV",
+     "Quantity": "1000.00000",
+     "Price": "0.79000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-10 12:00:00 AM",
+     "Symbol": "AREC",
+     "Quantity": "-400.00000",
+     "Price": "2.30230000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2022-03-10 12:00:00 AM",
+     "Symbol": "MTEK",
+     "Quantity": "500.00000",
+     "Price": "1.80720000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2022-03-10 12:00:00 AM",
+     "Symbol": "USWS",
+     "Quantity": "300.00000",
+     "Price": "1.25860000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2022-03-11 12:00:00 AM",
+     "Symbol": "GFAI",
+     "Quantity": "-2200.00000",
+     "Price": "0.86710000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-11 12:00:00 AM",
+     "Symbol": "LI",
+     "Quantity": "100.00000",
+     "Price": "24.04620000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-14 12:00:00 AM",
+     "Symbol": "LI",
+     "Quantity": "100.00000",
+     "Price": "18.70000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-14 12:00:00 AM",
+     "Symbol": "LI",
+     "Quantity": "-100.00000",
+     "Price": "20.80000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-14 12:00:00 AM",
+     "Symbol": "NIO",
+     "Quantity": "100.00000",
+     "Price": "14.95000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-14 12:00:00 AM",
+     "Symbol": "NIO",
+     "Quantity": "-100.00000",
+     "Price": "15.20000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-15 12:00:00 AM",
+     "Symbol": "AUUD",
+     "Quantity": "300.00000",
+     "Price": "1.64670000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-15 12:00:00 AM",
+     "Symbol": "NAOV",
+     "Quantity": "1000.00000",
+     "Price": "0.71000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-15 12:00:00 AM",
+     "Symbol": "USWS",
+     "Quantity": "300.00000",
+     "Price": "1.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-15 12:00:00 AM",
+     "Symbol": "MTEK",
+     "Quantity": "300.00000",
+     "Price": "1.85000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2022-03-16 12:00:00 AM",
+     "Symbol": "MTEK",
+     "Quantity": "-1000.00000",
+     "Price": "1.95000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2022-03-17 12:00:00 AM",
+     "Symbol": "LI",
+     "Quantity": "-100.00000",
+     "Price": "24.90320000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-17 12:00:00 AM",
+     "Symbol": "NIO",
+     "Quantity": "-100.00000",
+     "Price": "18.46100000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-17 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "100.00000",
+     "Price": "24.20840000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-17 12:00:00 AM",
+     "Symbol": "XPEV",
+     "Quantity": "-100.00000",
+     "Price": "25.26420000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-21 12:00:00 AM",
+     "Symbol": "AUUD",
+     "Quantity": "400.00000",
+     "Price": "1.89220000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-21 12:00:00 AM",
+     "Symbol": "AUUD",
+     "Quantity": "-400.00000",
+     "Price": "1.91000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-21 12:00:00 AM",
+     "Symbol": "ALF",
+     "Quantity": "-300.00000",
+     "Price": "1.90000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-21 12:00:00 AM",
+     "Symbol": "LI",
+     "Quantity": "-100.00000",
+     "Price": "26.58300000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-21 12:00:00 AM",
+     "Symbol": "NIO",
+     "Quantity": "-100.00000",
+     "Price": "20.30110000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-21 12:00:00 AM",
+     "Symbol": "USWS",
+     "Quantity": "-300.00000",
+     "Price": "1.15000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-21 12:00:00 AM",
+     "Symbol": "MTEK",
+     "Quantity": "-1300.00000",
+     "Price": "2.02000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2022-03-22 12:00:00 AM",
+     "Symbol": "AUUD",
+     "Quantity": "-1000.00000",
+     "Price": "1.95000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-22 12:00:00 AM",
+     "Symbol": "ALF",
+     "Quantity": "-1200.00000",
+     "Price": "2.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-22 12:00:00 AM",
+     "Symbol": "BILI",
+     "Quantity": "-200.00000",
+     "Price": "30.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-22 12:00:00 AM",
+     "Symbol": "NAOV",
+     "Quantity": "-1000.00000",
+     "Price": "0.90000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-22 12:00:00 AM",
+     "Symbol": "MTEK",
+     "Quantity": "500.00000",
+     "Price": "2.01000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2022-03-23 12:00:00 AM",
+     "Symbol": "BILI",
+     "Quantity": "-100.00000",
+     "Price": "33.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-24 12:00:00 AM",
+     "Symbol": "ALF",
+     "Quantity": "355.00000",
+     "Price": "1.88000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-24 12:00:00 AM",
+     "Symbol": "BILI",
+     "Quantity": "150.00000",
+     "Price": "29.06160000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-24 12:00:00 AM",
+     "Symbol": "LI",
+     "Quantity": "-100.00000",
+     "Price": "27.50000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-24 12:00:00 AM",
+     "Symbol": "REE",
+     "Quantity": "500.00000",
+     "Price": "2.17840000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-25 12:00:00 AM",
+     "Symbol": "BILI",
+     "Quantity": "150.00000",
+     "Price": "27.50000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-25 12:00:00 AM",
+     "Symbol": "LI",
+     "Quantity": "150.00000",
+     "Price": "26.20000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-25 12:00:00 AM",
+     "Symbol": "NAOV",
+     "Quantity": "9600.00000",
+     "Price": "0.90750000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-25 12:00:00 AM",
+     "Symbol": "NAOV",
+     "Quantity": "-5000.00000",
+     "Price": "0.95000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-25 12:00:00 AM",
+     "Symbol": "NIO",
+     "Quantity": "100.00000",
+     "Price": "20.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-28 12:00:00 AM",
+     "Symbol": "AUUD",
+     "Quantity": "300.00000",
+     "Price": "1.86350000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-28 12:00:00 AM",
+     "Symbol": "ALF",
+     "Quantity": "345.00000",
+     "Price": "1.81910000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-28 12:00:00 AM",
+     "Symbol": "ABVC",
+     "Quantity": "-800.00000",
+     "Price": "2.45110000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-28 12:00:00 AM",
+     "Symbol": "LI",
+     "Quantity": "150.00000",
+     "Price": "26.56350000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-28 12:00:00 AM",
+     "Symbol": "REE",
+     "Quantity": "300.00000",
+     "Price": "1.88780000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-29 12:00:00 AM",
+     "Symbol": "AUUD",
+     "Quantity": "-800.00000",
+     "Price": "2.25000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-29 12:00:00 AM",
+     "Symbol": "BIRD",
+     "Quantity": "400.00000",
+     "Price": "6.25000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-29 12:00:00 AM",
+     "Symbol": "MTEK",
+     "Quantity": "300.00000",
+     "Price": "1.85000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2022-03-30 12:00:00 AM",
+     "Symbol": "AUUD",
+     "Quantity": "-600.00000",
+     "Price": "2.44180000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-30 12:00:00 AM",
+     "Symbol": "ALF",
+     "Quantity": "-700.00000",
+     "Price": "1.86180000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-30 12:00:00 AM",
+     "Symbol": "NAOV",
+     "Quantity": "-2000.00000",
+     "Price": "1.20000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-30 12:00:00 AM",
+     "Symbol": "USWS",
+     "Quantity": "-600.00000",
+     "Price": "1.18080000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2022-03-31 12:00:00 AM",
+     "Symbol": "ALF",
+     "Quantity": "300.00000",
+     "Price": "1.70000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-31 12:00:00 AM",
+     "Symbol": "BIRD",
+     "Quantity": "300.00000",
+     "Price": "6.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-31 12:00:00 AM",
+     "Symbol": "ABVC",
+     "Quantity": "400.00000",
+     "Price": "2.74000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-31 12:00:00 AM",
+     "Symbol": "REE",
+     "Quantity": "300.00000",
+     "Price": "1.90000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-03-31 12:00:00 AM",
+     "Symbol": "USWS",
+     "Quantity": "600.00000",
+     "Price": "1.12000000",
+     "Type": "Individual TFSA"
+    },
+    {
+     "Date": "2022-04-04 12:00:00 AM",
+     "Symbol": "BIRD",
+     "Quantity": "-500.00000",
+     "Price": "6.70000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-04-04 12:00:00 AM",
+     "Symbol": "BILI",
+     "Quantity": "-100.00000",
+     "Price": "32.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-04-04 12:00:00 AM",
+     "Symbol": "MTEK",
+     "Quantity": "300.00000",
+     "Price": "1.58000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-04-04 12:00:00 AM",
+     "Symbol": "NAOV",
+     "Quantity": "200.00000",
+     "Price": "1.12000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-04-05 12:00:00 AM",
+     "Symbol": "ALF",
+     "Quantity": "300.00000",
+     "Price": "1.66966667",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-04-05 12:00:00 AM",
+     "Symbol": "BIRD",
+     "Quantity": "300.00000",
+     "Price": "6.25000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-04-05 12:00:00 AM",
+     "Symbol": "BILI",
+     "Quantity": "100.00000",
+     "Price": "29.98400000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-04-05 12:00:00 AM",
+     "Symbol": "MTEK",
+     "Quantity": "500.00000",
+     "Price": "1.55000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-04-05 12:00:00 AM",
+     "Symbol": "NAOV",
+     "Quantity": "3800.00000",
+     "Price": "1.13473684",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-04-05 12:00:00 AM",
+     "Symbol": "NIO",
+     "Quantity": "-100.00000",
+     "Price": "23.30500000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-04-05 12:00:00 AM",
+     "Symbol": "USWS",
+     "Quantity": "500.00000",
+     "Price": "1.02000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-04-06 12:00:00 AM",
+     "Symbol": "ALF",
+     "Quantity": "300.00000",
+     "Price": "1.57933333",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-04-06 12:00:00 AM",
+     "Symbol": "BIRD",
+     "Quantity": "300.00000",
+     "Price": "5.78840000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-04-06 12:00:00 AM",
+     "Symbol": "NAOV",
+     "Quantity": "2000.00000",
+     "Price": "1.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-04-06 12:00:00 AM",
+     "Symbol": "NIO",
+     "Quantity": "100.00000",
+     "Price": "21.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-04-08 12:00:00 AM",
+     "Symbol": "NAOV",
+     "Quantity": "2000.00000",
+     "Price": "0.91000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-04-08 12:00:00 AM",
+     "Symbol": "NIO",
+     "Quantity": "100.00000",
+     "Price": "20.00000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-04-11 12:00:00 AM",
+     "Symbol": "NAOV",
+     "Quantity": "2000.00000",
+     "Price": "0.81713275",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-04-12 12:00:00 AM",
+     "Symbol": "INTC",
+     "Quantity": "30.00000",
+     "Price": "46.80000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-04-12 12:00:00 AM",
+     "Symbol": "MTEK",
+     "Quantity": "300.00000",
+     "Price": "1.42000000",
+     "Type": "Individual margin"
+    },
+    {
+     "Date": "2022-04-13 12:00:00 AM",
+     "Symbol": "AUUD",
+     "Quantity": "-128.00000",
+     "Price": "2.20000000",
+     "Type": "Individual margin"
+    }
+   ]
+   
